@@ -2433,732 +2433,486 @@ Christopher Cunningham, Issa Nesnas, William Whittaker
 Best Systems Paper:
 XPose: Reinventing User Interaction with Flying Cameras
 Ziquan Lan, Mohit Shridhar, David Hsu, Shengdong Zhao
-Most Cited Papers:
-188
-Safe visual navigation via deep learning and novelty detection
-C. Richter, N. Roy
-153
-Breaking the Human-Robot Deadlock: Surpassing Shared Control Performance Limits with Sparse Human-Robot Interaction.
-P. Trautman
-152
-Discrete control barrier functions for safety-critical control of discrete systems with application to bipedal robot navigation.
-A. Agrawal, K. Sreenath
-121
-Fast trajectory optimization for agile quadrotor maneuvers with a cable-suspended payload
-P. Foehn, D. Falanga, N. Kuppuswamy, R. Tedrake
-64
-Heterogeneous sensor fusion for accurate state estimation of dynamic legged robots
-S. Nobili, M. Camurri, V. Barasuol, M. Focchi, D. Caldwell
-ICRA 2017   (Singapore, Singapore. May 29 - June 3, 2017)
-Best Paper:
+
+# ICRA 2017   (Singapore, Singapore. May 29 - June 3, 2017)
+
+**Best Paper:**
+
 Probabilistic Data Association for Semantic SLAM
 Sean Bowman, Nikolay Atanasov, Kostas Daniilidis, George J. Pappas
-Best Student Paper:
+
+**Best Student Paper:**
+
 Autonomous Robotic Stone Stacking with Online Next Best Object Target Pose Planning
 Fadri Furrer, Martin Wermelinger, Hironori Yoshida, Fabio Gramazio, Matthias Daniel Kohler, Roland Siegwart, Marco Hutter
-Best Automation Paper:
+
+**Best Automation Paper:**
+
 UAV-Based Crop and Weed Classification for Smart Farming
 Philipp Lottes, Raghav Khanna, Johannes Pfeifer, Roland Siegwart, Cyrill Stachniss
-Best Cognitive Robotics Paper:
+
+**Best Cognitive Robotics Paper:**
+
 Learning to Guide Task and Motion Planning Using Score-Space Representation
 Beomjoon Kim, Leslie Kaelbling, Tomas Lozano-Perez
-Best Human-Robot Interaction Paper:
+
+**Best Human-Robot Interaction Paper:**
+
 Development of a Block Machine for Volleyball Attack Training
 Kosuke Sato, Keita Watanabe, Shuichi Mizuno, Masayoshi Manabe, Hiroaki Yano, Hiroo Iwata
-Best Medical Robotics Paper:
+
+**Best Medical Robotics Paper:**
+
 First Demonstration of Simultaneous Localization and Propulsion of a Magnetic Capsule in a Lumen using a Single Rotating Magnet
 Katie Popek, Tucker Hermans, Jake Abbott
-Best Multi-Robot Systems Paper:
+
+**Best Multi-Robot Systems Paper:**
+
 The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed
 Daniel Pickem, Paul Glotfelter, Li Wang, Mark Mote, Aaron Ames, Eric Feron, Magnus Egerstedt
-Best Robot Manipulation Paper:
+
+**Best Robot Manipulation Paper:**
+
 Analyzing Achievable Stiffness Control Bounds of Robotic Hands with Compliantly Coupled Finger Joints
 Prashant Rao, Gray Thomas, Luis Sentis, Ashish Deshpande
-Best Robot Vision Paper:
+
+**Best Robot Vision Paper:**
+
 Self-supervised Learning of Dense Visual Descriptors
 Tanner Schmidt, Richard Newcombe, Dieter Fox
-Best Service Robotics Paper:
+
+**Best Service Robotics Paper:**
+
 High-Precision Microinjection of Microbeads into C. Elegans Trapped in a Suction Microchannel
 Masahiro Nakajima, Yuki Ayamura, Masaru Takeuchi, Naoki Hisamoto, Strahil Pastuhov, Yasuhisa Hasegawa, Toshio Fukuda, Qiang Huang
-Most Cited Papers:
-1535
-Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates
-S. Gu, E. Holly, T. Lillicrap
-1519
-Target-driven visual navigation in indoor scenes using deep reinforcement learning
-Y. Zhu, R. Mottaghi, E. Kolve, J.J. Lim
-755
-Deepvo: Towards end-to-end visual odometry with deep recurrent convolutional neural networks
-S. Wang, R. Clark, H. Wen
-724
-Deep visual foresight for planning robot motion
-C. Finn, S. Levine
-581
-Vote3deep: Fast object detection in 3d point clouds using efficient convolutional neural networks
-M. Engelcke, D. Rao, D.Z. Wang
-ICLR 2017   (Toulon, France. April 24-26, 2017)
-Best Paper:
+
+# ICLR 2017   (Toulon, France. April 24-26, 2017)
+
+**Best Paper:**
+
 Making Neural Programming Architectures Generalize via Recursion
 Jonathon Cai, Richard Shin, Dawn Song
+
 Understanding deep learning requires rethinking generalization
 Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
 Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
 Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar
-Most Cited Papers:
-3639
-beta-vae: Learning basic visual concepts with a constrained variational framework
-I. Higgins, L. Matthey, A. Pal, C. Burgess
-2876
-Optimization as a model for few-shot learning
-S. Ravi, H. Larochelle
-1383
-A simple but tough-to-beat baseline for sentence embeddings
-S. Arora, Y. Liang, T. Ma
-547
-Training deep neural-networks using a noise adaptation layer
-J. Goldberger, E. Ben-Reuven
-235
-Training agent for first-person shooter game with actor-critic curriculum learning
-Y. Wu, Y. Tian
-AAAI 2017   (San Francisco, USA. February 4-9, 2017)
-Outstanding Paper:
+
+# AAAI 2017   (San Francisco, USA. February 4-9, 2017)
+
+**Outstanding Paper:**
+
 Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
 Russell Stewart, Stefano Ermon
-Outstanding Student Paper:
+
+**Outstanding Student Paper:**
+
 The Option-Critic Architecture
 Pierre-Luc Bacon, Jean Harb, Doina Precup
-Most Cited Papers:
-13842
-Inception-v4, inception-resnet and the impact of residual connections on learning
-C. Szegedy, S. Ioffe, V. Vanhoucke, A. Alemi
-2325
-Seqgan: Sequence generative adversarial nets with policy gradient
-L. Yu, W. Zhang, J. Wang, Y. Yu
-2007
-Conceptnet 5.5: An open multilingual graph of general knowledge
-R. Speer, J. Chin, C. Havasi
-1662
-Deep spatio-temporal residual networks for citywide crowd flows prediction
-J. Zhang, Y. Zheng, D. Qi
-1226
-Summarunner: A recurrent neural network based sequence model for extractive summarization of documents
-R. Nallapati, F. Zhai, B. Zhou
-WAFR 2016   (San Francisco, USA. December 18-20, 2016)
-Best Paper:
+
+# WAFR 2016   (San Francisco, USA. December 18-20, 2016)
+
+**Best Paper:**
+
 A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group
 David Rosen, Luca Carlone, Afonso Bandeira, John Leonard
-NeurIPS 2016   (Barcelona, Spain. December 5-11, 2016)
-Best Paper:
+
+# NeurIPS 2016   (Barcelona, Spain. December 5-11, 2016)
+
+**Best Paper:**
+
 Value Iteration Networks
 Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, Pieter Abbeel
-Best Student Paper:
+
+**Best Student Paper:**
+
 Matrix Completion has No Spurious Local Minimum
 Rong Ge, Jason Lee, Tengyu Ma
-Most Cited Papers:
-651
-Value iteration networks
-A. Tamar, Y. Wu, G. Thomas
-646
-Matrix completion has no spurious local minimum
-R. Ge, J.D. Lee, T. Ma
-411
-Coordinated deep reinforcement learners for traffic light control
-E. Van der Pol, F.A. Oliehoek
-329
-Elbo surgery: yet another way to carve up the variational evidence lower bound
-M.D. Hoffman, M.J. Johnson
-190
-The case for process fairness in learning: Feature selection for fair decision making
-N. Grgic-Hlaca, M.B. Zafar, K.P. Gummadi
-EMNLP 2016   (Austin, USA. November 1-5, 2016)
-Best Paper:
+
+# EMNLP 2016   (Austin, USA. November 1-5, 2016)
+
+**Best Paper:**
+
 Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
 Karthik Narasimhan, Adam Yala, Regina Barzilay
 Global Neural CCG Parsing with Optimality Guarantees
 Kenton Lee, Mike Lewis, Luke Zettlemoyer
-Best Short Paper:
+
+**Best Short Paper:**
+
 Learning a Lexicon and Translation Model from Phoneme Lattices
 Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do, Satoshi Nakamura
-Best Resource Paper:
+
+**Best Resource Paper:**
+
 SQuAD: 100,000+ Questions for Machine Comprehension of Text
 Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang
-Most Cited Papers:
-6123
-Squad: 100,000+ questions for machine comprehension of text
-P. Rajpurkar, J. Zhang, K. Lopyrev, P. Liang
-168
-Improving information extraction by acquiring external evidence with reinforcement learning
-K. Narasimhan, A. Yala, R. Barzilay
-106
-Discourse Parsing with Attention-based Hierarchical Neural Networks.
-Q. Li, T. Li, B. Chang
-64
-Supervised distributional hypernym discovery via domain adaptation
-L. Espinosa-Anke, J. Camacho-Collados
-58
-A dataset and evaluation metrics for abstractive compression of sentences and short paragraphs
-K. Toutanova, C. Brockett, K.M. Tran, S. Amershi
-3DV 2016   (Stanford, USA. October 25-28, 2016)
-Best Paper:
+
+# 3DV 2016   (Stanford, USA. October 25-28, 2016)
+
+**Best Paper:**
+
 Depth from Gradients in Dense Light Fields for Object Reconstruction
 Kaan Yucer, Changil Kim, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
-Most Cited Papers:
-7368
-V-net: Fully convolutional neural networks for volumetric medical image segmentation
-F. Milletari, N. Navab, S.A. Ahmadi
-1864
-Deeper depth prediction with fully convolutional residual networks
-I. Laina, C. Rupprecht, V. Belagiannis
-321
-3D face reconstruction by learning from synthetic data
-E. Richardson, M. Sela, R. Kimmel
-308
-Synthesizing training images for boosting human 3d pose estimation
-W. Chen, H. Wang, Y. Li, H. Su, Z. Wang
-278
-Scenenn: A scene meshes dataset with annotations
-B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran
-IROS 2016   (Daejeon, Korea. October 9-14, 2016)
-Best Paper:
+
+# IROS 2016   (Daejeon, Korea. October 9-14, 2016)
+
+**Best Paper:**
+
 ANYmal - a Highly Mobile and Dynamic Quadrupedal Robot
 Marco Hutter, Christian Gehring, Dominic Jud, Andreas Lauber, Carmine Dario Bellicoso, Vassilios Tsounis, Jemin Hwangbo, Karen Bodie, Péter Fankhauser, Michael Bloesch, Remo Diethelm, Samuel Bachmann, Amir Melzer, Mark Hoepflinger
-Best Student Paper:
+
+**Best Student Paper:**
+
 Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments
 Markus Wulfmeier, Dominic Zeng Wang, Ingmar Posner
-Best Application Award Paper:
+
+**Best Application Award Paper:**
+
 Skeletal Structure with Artificial Perspiration for Cooling by Latent Heat for Musculoskeletal Humanoid Kengoro
 Toyotaka Kozuki, Hirose Toshinori, Takuma Shirai, Shinsuke Nakashima, Yuki Asano, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
-Best Safety, Security, and Recue Robotics Paper:
+
+**Best Safety, Security, and Recue Robotics Paper:**
+
 A Palm for a Rock Climbing Robot Based on Dense Arrays of Micro-Spines
 Shiquan Wang, Hao Jiang, Mark Cutkosky
-Best Cognitive Robotics Paper:
+
+**Best Cognitive Robotics Paper:**
+
 Predicting Actions to Act Predictably: Cooperative Partial Motion Planning with Maximum Entropy Models
 Mark Pfeiffer, Ulrich Schwesinger, Hannes Sommer, Enric Galceran, Roland Siegwart
-Best RoboCup Paper:
+
+**Best RoboCup Paper:**
+
 Multi-Robot Search for a Moving Target: Integrating World Modeling, Task Assignment and Context
 Francesco Riccio, Emanuele Borzi, Guglielmo Gemignani, Daniele Nardi
-Best Novel Technology Paper for Amusement Culture:
+
+**Best Novel Technology Paper for Amusement Culture:**
+
 Robot Artist for Colorful Picture Painting with Visual Control System
 Ren Luo, Ming-Jyun Hong, Ping-Chang Chung
-Most Cited Papers:
-673
-Anymal-a highly mobile and dynamic quadrupedal robot
-M. Hutter, C. Gehring, D. Jud, A. Lauber
-645
-AprilTag 2: Efficient and robust fiducial detection
-J. Wang, E. Olson
-304
-High precision grasp pose detection in dense clutter
-M. Gualtieri, A. Ten Pas, K. Saenko
-270
-Deep learning a grasp function for grasping under gripper pose uncertainty
-E. Johns, S. Leutenegger
-248
-Continuous-time trajectory optimization for online uav replanning
-H. Oleynikova, M. Burri, Z. Taylor, J. Nieto
-ECCV 2016   (Amsterdam, Netherlands. October 8-16, 2016)
-Best Paper:
+
+# ECCV 2016   (Amsterdam, Netherlands. October 8-16, 2016)
+
+**Best Paper:**
+
 Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
 H. Kim, S. Leutenegger, A. J. Davison
-Best Student Paper:
+
+**Best Student Paper:**
+
 Focal Flow: Measuring Distance and Velocity with Defocus and Differential Motion
 Emma Alexander, Qi Guo, Sanjeev Koppal, Steven Gortler, Todd Zickler
-Most Cited Papers:
-29504
-Ssd: Single shot multibox detector
-W. Liu, D. Anguelov, D. Erhan, C. Szegedy
-9907
-Identity mappings in deep residual networks
-K. He, X. Zhang, S. Ren, J. Sun
-9199
-Perceptual losses for real-time style transfer and super-resolution
-J. Johnson, A. Alahi, L. Fei-Fei
-5051
-Stacked hourglass networks for human pose estimation
-A. Newell, K. Yang, J. Deng
-4735
-Xnor-net: Imagenet classification using binary convolutional neural networks
-M. Rastegari, V. Ordonez, J. Redmon
-ACL 2016   (Berlin, Germany. August 7-12, 2016)
-Best Paper:
+
+# ACL 2016   (Berlin, Germany. August 7-12, 2016)
+
+**Best Paper:**
+
 Finding Non-Arbitrary Form-Meaning Systematicity Using String-Metric Learning for Kernel Regression
 E.Dario Gutiérrez, Roger Levy, Benjamin Bergen
-Most Cited Papers:
-507
-Semeval-2016 task 1: Semantic textual similarity, monolingual and cross-lingual evaluation
-E. Agirre, C. Banea, D. Cer, M. Diab
-421
-Emergent: a novel data-set for stance classification
-W. Ferreira, A. Vlachos
-120
-Catena: Causal and temporal relation extraction from natural language texts
-P. Mirza, S. Tonelli
-97
-Opendial: A toolkit for developing spoken dialogue systems with probabilistic rules
-P. Lison, C. Kennington
-67
-Terminology extraction with term variant detection
-D. Cram, B. Daille
-RSS 2016   (Ann Arbor, USA. July 18-22, 2016)
-Best Paper:
+
+# RSS 2016   (Ann Arbor, USA. July 18-22, 2016)
+
+**Best Paper:**
+
 Efficient Grounding of Abstract Spatial Concepts for Natural Language Interaction with Robot Manipulators
 Rohan Paul, Jacob Arkin, Nicholas Roy and Thomas M. Howard
-Best Student Paper:
+
+**Best Student Paper:**
+
 Coordinated multi-arm motion planning: Reaching for moving objects in the face of uncertainty
 Seyed Sina Mirrazavi Salehian, Nadia Figueroa and Aude Billard
-Best Systems Paper:
+
+**Best Systems Paper:**
+
 An End-To-End System for Accomplishing Tasks with Modular Robots
 Gangyuan Jing, Tarik Tosun, Mark Yim, Hadas Kress-Gazit
+
 Lessons from the Amazon Picking Challenge: Four Aspects of Building Robotic Systems
 Clemens Eppner, Sebastian Höfer, Rico Jonschkowski, Roberto Martín-Martín, Arne Sieverling, Vincent Wall, Oliver Brock
-Most Cited Papers:
-476
-Planning for autonomous cars that leverage effects on human actions.
-D. Sadigh, S. Sastry, S.A. Seshia
-214
-Lessons from the amazon picking challenge: Four aspects of building robotic systems.
-C. Eppner, S. Höfer, R. Jonschkowski
-206
-Incremental task and motion planning: A constraint-based approach.
-N.T. Dantam, Z.K. Kingston
-137
-Safe control under uncertainty with probabilistic signal temporal logic
-D. Sadigh, A. Kapoor
-118
-Motion planning as probabilistic inference using Gaussian processes and factor graphs.
-J. Dong, M. Mukadam, F. Dellaert
-CVPR 2016   (Las Vegas, USA. June 26 - July 1, 2016)
-Best Paper:
+
+# CVPR 2016   (Las Vegas, USA. June 26 - July 1, 2016)
+
+**Best Paper:**
+
 Deep Residual Learning for Image Recognition
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-Best Student Paper:
+
+**Best Student Paper:**
+
 Structural-RNN: Deep Learning on Spatio-Temporal Graphs
 Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena
-Retrospective Most Impactful Paper from CVPR 2006:
+
+**Retrospective Most Impactful Paper from CVPR 2006:**
+
 Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
 S. Lazebnik, C. Schmid, J. Ponce
+
 Scalable Recognition with a Vocabulary Tree
 D. Nister, H. Stewenius
-Most Cited Papers:
-164889
-Deep residual learning for image recognition
-K. He, X. Zhang, S. Ren, J. Sun
-35026
-You only look once: Unified, real-time object detection
-J. Redmon, S. Divvala, R. Girshick
-26488
-Rethinking the inception architecture for computer vision
-C. Szegedy, V. Vanhoucke, S. Ioffe
-9755
-The cityscapes dataset for semantic urban scene understanding
-M. Cordts, M. Omran, S. Ramos
-8403
-Learning deep features for discriminative localization
-B. Zhou, A. Khosla, A. Lapedriza
-ICML 2016   (New York, USA. June 19-24, 2016)
-Best Paper:
+
+# ICML 2016   (New York, USA. June 19-24, 2016)
+
+**Best Paper:**
+
 Dueling Network Architectures for Deep Reinforcement Learning
 Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando Freitas
+
 Pixel Recurrent Neural Networks
 Aaron Van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu
+
 Ensuring Rapid Mixing and Low Bias for Asynchronous Gibbs Sampling
 Christopher De Sa, Chris Re, Kunle Olukotun
-Test of Time:
+
+**Test of Time:**
+
 Dynamic Topic Models
 David M. Blei, John D. Lafferty
-Most Cited Papers:
-8814
-Asynchronous methods for deep reinforcement learning
-V. Mnih, A.P. Badia, M. Mirza, A. Graves
-7507
-Dropout as a bayesian approximation: Representing model uncertainty in deep learning
-Y. Gal, Z. Ghahramani
-3691
-Dueling network architectures for deep reinforcement learning
-Z. Wang, T. Schaul, M. Hessel
-3179
-Deep speech 2: End-to-end speech recognition in english and mandarin
-D. Amodei, S. Ananthanarayanan
-3154
-Generative adversarial text to image synthesis
-S. Reed, Z. Akata, X. Yan, L. Logeswaran
-ICRA 2016   (Stockholm, Sweden. May 16-21, 2016)
-Best Paper:
+
+# ICRA 2016   (Stockholm, Sweden. May 16-21, 2016)
+
+**Best Paper:**
+
 A Convex Polynomial Force-Motion Model for Planar Sliding: Identification and Application
 Jiaji Zhou, Robert Paolini, James Bagnell, Matthew T. Mason
-Best Student Paper:
+
+**Best Student Paper:**
+
 Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours
 Lerrel Joseph Pinto, Abhinav Gupta
-Best Automation Paper:
+
+**Best Automation Paper:**
+
 Beyond Layers: A 3D-Aware Toolpath Algorithm for Fused Filament Fabrication
 Samuel Lensgraf, Ramgopal Mettu
-Best Human-Robot Interaction Paper:
+
+**Best Human-Robot Interaction Paper:**
+
 A Highly Sensitive Dual Mode Tactile Proximity Sensor Using Carbon Microcoils for Robotic Applications
 Hyo Seung Han, Junwoo Park, Tien Dat Nguyen, Uikyum Kim, Canh Toan Nguyen, Hoa Phung, Hyouk Ryeol Choi
-Best Medical Robotics Paper:
+
+**Best Medical Robotics Paper:**
+
 Image-Based Robotic System for Enhanced Minimally Invasive Intra-Articular Fracture Surgeries
 Giulio Dagnino, Ioannis Georgilas, Paul Köhler, R. Atkins, Sanja Dogramadzi
-Best Robot Manipulation Paper:
+
+**Best Robot Manipulation Paper:**
+
 Optimal Control with Learned Local Models: Application to Dexterous Manipulation
 Vikash Kumar, Emanuel Todorov, Sergey Levine
-Best Robot Vision Paper:
+
+**Best Robot Vision Paper:**
+
 Multi-Type Activity Recognition in Robot-Centric Scenarios
 Ilaria Gori, J.K. Aggarwal, Larry Matthies, Michael S. Ryoo
-Most Cited Papers:
-1597
-Real-time loop closure in 2D LIDAR SLAM
-W. Hess, D. Kohler, H. Rapp
-1145
-Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours
-L. Pinto, A. Gupta
-551
-Deep spatial autoencoders for visuomotor learning
-C. Finn, X.Y. Tan, Y. Duan, T. Darrell
-549
-Modelling uncertainty in deep learning for camera relocalization
-A. Kendall, R. Cipolla
-470
-Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search
-T. Zhang, G. Kahn, S. Levine
-ICLR 2016   (San Juan, Puerto Rico. May 2-4, 2016)
-Best Paper:
+
+# ICLR 2016   (San Juan, Puerto Rico. May 2-4, 2016)
+
+**Best Paper:**
+
 Neural Programmer-Interpreters
 Scott Reed, Nando de Freitas
+
 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
 Song Han, Huizi Mao, Bill Dally
-Most Cited Papers:
-5
-Lessons from the Rademacher complexity for deep learning
-J. Sokolic, R. Gyries, G. Sapiro, MRD Rodrigues
-AAAI 2016   (Phoenix, USA. February 12-17, 2016)
-Outstanding Paper:
+
+# AAAI 2016   (Phoenix, USA. February 12-17, 2016)
+
+**Outstanding Paper:**
+
 Bidirectional Search That Is Guaranteed to Meet in the Middle
 Robert C. Holte, Ariel Felner, Guni Sharon, Nathan R. Sturtevant
-Outstanding Student Paper:
+
+**Outstanding Student Paper:**
+
 Toward a Taxonomy and Computational Models of Abnormalities in Images
 Babak Saleh, Ahmed Elgammal, Jacob Feldman, Ali Farhadi
-Most Cited Papers:
-6844
-Deep reinforcement learning with double q-learning
-H. Van Hasselt, A. Guez, D. Silver
-1971
-Character-aware neural language models
-Y. Kim, Y. Jernite, D. Sontag, A. Rush
-1867
-Building end-to-end dialogue systems using generative hierarchical neural network models
-I. Serban, A. Sordoni, Y. Bengio, A. Courville
-1613
-Return of frustratingly easy domain adaptation
-B. Sun, J. Feng, K. Saenko
-1169
-Holographic embeddings of knowledge graphs
-M. Nickel, L. Rosasco, T. Poggio
-ICCV 2015   (Santiago, Chile. December 11-18, 2015)
-Best Paper:
+
+# ICCV 2015   (Santiago, Chile. December 11-18, 2015)
+
+**Best Paper:**
+
 Deep Neural Decision Forests
 P. Kontschieder, M. Fiterau, A. Criminisi, S. Rota Bulo
-Most Cited Papers:
-27086
-Fast r-cnn
-R. Girshick
-20221
-Delving deep into rectifiers: Surpassing human-level performance on imagenet classification
-K. He, X. Zhang, S. Ren, J. Sun
-8173
-Learning spatiotemporal features with 3d convolutional networks
-D. Tran, L. Bourdev, R. Fergus
-6800
-Deep learning face attributes in the wild
-Z. Liu, P. Luo, X. Wang, X. Tang
-4918
-Learning deconvolution network for semantic segmentation
-H. Noh, S. Hong, B. Han
-NeurIPS 2015   (Montréal, Canada. December 7-12, 2015)
-Best Paper:
+
+# NeurIPS 2015   (Montréal, Canada. December 7-12, 2015)
+
+**Best Paper:**
+
 Competitive Distribution Estimation: Why is Good-Turing Good
 Alon Orlitsky, Ananda Suresh
+
 Fast Convergence of Regularized Learning in Games
 Vasilis Syrgkanis, Alekh Agarwal, Haipeng Luo, Robert Schapire
-Most Cited Papers:
-1066
-Chainer: a next-generation open source framework for deep learning
-S. Tokui, K. Oono, S. Hido, J. Clayton
-201
-Collaborative filtering with stacked denoising autoencoders and sparse inputs
-F. Strub, J. Mary, P. Philippe
-200
-Fast convergence of regularized learning in games
-V. Syrgkanis, A. Agarwal, H. Luo
-188
-Higgs boson discovery with boosted trees
-T. Chen, T. He
-148
-The Higgs boson machine learning challenge
-C. Adam-Bourdarios, G. Cowan
-3DV 2015   (Lyon, France. October 19-22, 2015)
-Best Paper:
+
+# 3DV 2015   (Lyon, France. October 19-22, 2015)
+
+**Best Paper:**
+
 Towards Probabilistic Volumetric Reconstruction using Ray Potentials
 Ali Ulusoy, Andreas Geiger, Michael Black
-Most Cited Papers:
-125
-Point pair features based object detection and pose estimation revisited
-T. Birdal, S. Ilic
-118
-3D modeling on the go: Interactive 3D reconstruction of large-scale scenes on mobile devices
-T. Schöps, T. Sattler, C. Häne
-117
-Livescan3d: A fast and inexpensive 3d data acquisition system for multiple kinect v2 sensors
-M. Kowalski, J. Naruniec
-67
-Towards probabilistic volumetric reconstruction using ray potentials
-A.O. Ulusoy, A. Geiger, M.J. Black
-60
-Super generalized 4pcs for 3d registration
-M. Mohamad, M.T. Ahmed, D. Rappaport
-IROS 2015   (Hamburg, Germany. September 28 - October 2, 2015)
-Best Paper:
+
+# IROS 2015   (Hamburg, Germany. September 28 - October 2, 2015)
+
+**Best Paper:**
+
 Tactile Sensing for Gecko-Inspired Adhesion
 Xin Alice Wu, Srinivasan Suresh, Hao Jiang, John Ulmen, Elliot Wright Hawkes, David Christensen, Mark Cutkosky
-Best Student Paper:
+
+**Best Student Paper:**
+
 Hybrid Aerial and Aquatic Locomotion in an At-Scale Robotic Insect
 YuFeng Chen, Elizabeth Farrell Helbling, Gravish Nicholas, Kevin Ma, Robert Wood
-Best Application Paper:
+
+**Best Application Paper:**
+
 Cloth Dynamics Modeling in Latent Spaces and its Application to Robotic Clothing Assistance
+
 Nishanth Koganti, Jimson Gelbolingo Ngeo, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata
-Best Novel Technology Paper for Amusement Culture:
+
+**Best Novel Technology Paper for Amusement Culture:**
+
 Momentum-Driven Single-Actuated Swimming Robot
 Gilad Refael, Amir Degani
-Best RoboCup Paper:
+
+**Best RoboCup Paper:**
+
 POMDP to the Rescue: Boosting Performance for Robocup Rescue
 Kegui Wu, Wee Sun Lee, David Hsu
-Most Cited Papers:
-3193
-Voxnet: A 3d convolutional neural network for real-time object recognition
-D. Maturana, S. Scherer
-814
-Robust visual inertial odometry using a direct EKF-based approach
-M. Bloesch, S. Omari, M. Hutter
-716
-Multimodal deep learning for robust RGB-D object recognition
-A. Eitel, J.T. Springenberg, L. Spinello
-642
-Large-scale direct SLAM with stereo cameras
-J. Engel, J. Stückler, D. Cremers
-574
-On the performance of convnet features for place recognition
-N. Sünderhauf, S. Shirazi, F. Dayoub
-EMNLP 2015   (Lisbon, Portugal. September 17-21, 2015)
-Best Paper:
+
+# EMNLP 2015   (Lisbon, Portugal. September 17-21, 2015)
+
+**Best Paper:**
+
 Broad-coverage CCG Semantic Parsing with AMR
 Yoav Artzi, Kenton Lee, Luke Zettlemoyer
+
 Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
 Tsung-Hsien Wen, Milica Gasic, Nikola Mrkšić, Pei-Hao Su, David Vandyke, Steve Young
-Best Resource Paper:
+
+**Best Resource Paper:**
+
 A large annotated corpus for learning natural language inference
 Samuel R. Bowman, Gabor Angeli, Christopher Potts, Christopher D. Manning
-Most Cited Papers:
-3590
-A large annotated corpus for learning natural language inference
-S.R. Bowman, G. Angeli, C. Potts, C.D. Manning
-991
-Semantically conditioned lstm-based natural language generation for spoken dialogue systems
-T.H. Wen, M. Gasic, N. Mrksic, P.H. Su, D. Vandyke
-178
-Specializing Word Embeddings for Similarity or Relatedness.
-D. Kiela, F. Hill, S. Clark
-177
-Broad-coverage CCG semantic parsing with AMR
-Y. Artzi, K. Lee, L. Zettlemoyer
-74
-Discourse parsing for multi-party chat dialogues
-S. Afantenos, E. Kow, N. Asher, J. Perret
-ACL 2015   (Beijing, China. July 26-31, 2015)
-Best Paper:
+
+**Best Paper:**
+
 Improving Evaluation of Machine Translation Quality Estimation
+
 Yvette Graham
+
 Learning Dynamic Feature Selection for Fast Sequential Prediction
+
 Emma Strubell, Luke Vilnis, Kate Silverstein, Andrew McCallum
-Most Cited Papers:
-747
-Semantic parsing via staged query graph generation: Question answering with knowledge base
-S.W. Yih, M.W. Chang, X. He, J. Gao
-223
-Hubness and pollution: Delving into cross-space mapping for zero-shot learning
-A. Lazaridou, G. Dinu, M. Baroni
-170
-Bilingual word embeddings from non-parallel document-aligned data applied to bilingual lexicon induction
-I. Vulic, M.F. Moens
-130
-Multi-level translation quality prediction with quest++
-L. Specia, G. Paetzold, C. Scarton
-100
-A domain-independent rule-based framework for event extraction
-M.A. Valenzuela-Escárcega
-RSS 2015   (Rome, Italy. July 13-17, 2015)
-Best Paper:
+
+# RSS 2015   (Rome, Italy. July 13-17, 2015)
+
+**Best Paper:**
+
 Guidance and Navigation for UAV Airborne Docking
 Daniel Wilson, Ali Goktogan, Salah Sukkarieh
-Best Student Paper:
+
+**Best Student Paper:**
+
 On the hardness of unlabeled motion planning
 Kiril Solovey, Dan Halperin
-Best Systems Paper:
+
+**Best Systems Paper:**
+
 Autonomy Infused Teleoperation with Application to BCI Manipulation
 Katharina Mulling, Arun Venkatraman, Jean-Sebastien Valois, John Downey, Jeffrey Weiss, Martial Hebert, Andrew Schwartz, Jennifer Collinger, Andrew Bagnell
-Most Cited Papers:
-796
-ElasticFusion: Dense SLAM without a pose graph
-T. Whelan, S. Leutenegger, R. Salas-Moreno, B. Glocker
-431
-Place recognition with convnet landmarks: Viewpoint-robust, condition-robust, training-free
-N. Sünderhauf, S. Shirazi, A. Jacobson
-396
-Voting for voting in online point cloud object detection.
-D.Z. Wang, I. Posner
-366
-DeepMPC: Learning deep latent features for model predictive control.
-I. Lenz, R.A. Knepper, A. Saxena
-294
-Online localization of radio-tagged wildlife with an autonomous aerial robot system
-O.M. Cliff, R. Fitch, S. Sukkarieh
-ICML 2015   (Lille, France. July 6-11, 2015)
-Best Paper:
+
+# ICML 2015   (Lille, France. July 6-11, 2015)
+
+**Best Paper:**
+
 Optimal and Adaptive Algorithms for Online Boosting
+
 Alina Beygelzimer, Satyen Kale, Haipeng Luo
+
 A Nearly-Linear Time Framework for Graph-Structured Sparsity
+
 Chinmay Hegde, Piotr Indyk, Ludwig Schmid
-Test of Time:
+
+**Test of Time:**
+
 Learning to Rank Using Gradient Descent
 Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole Hamilton, Greg Hullender
-Most Cited Papers:
-47024
-Batch normalization: Accelerating deep network training by reducing internal covariate shift
-S. Ioffe, C. Szegedy
-10664
-Show, attend and tell: Neural image caption generation with visual attention
-K. Xu, J. Ba, R. Kiros, K. Cho, A. Courville
-6359
-Trust region policy optimization
-J. Schulman, S. Levine, P. Abbeel
-5092
-Unsupervised domain adaptation by backpropagation
-Y. Ganin, V. Lempitsky
-4517
-Learning transferable features with deep adaptation networks
-M. Long, Y. Cao, J. Wang
-CVPR 2015   (Boston, USA. June 7-12, 2015)
-Best Paper:
+
+# CVPR 2015   (Boston, USA. June 7-12, 2015)
+
+**Best Paper:**
+
 DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time
 Richard A. Newcombe, Dieter Fox, Steven M. Seitz
-Best Student Paper:
+
+**Best Student Paper:**
+
 Category-Specific Object Reconstruction from a Single Image
 Abhishek Kar, Shubham Tulsiani, João Carreira, Jitendra Malik
-Retrospective Most Impactful Paper from CVPR 2005:
+
+**Retrospective Most Impactful Paper from CVPR 2005:**
+
 Histograms of oriented gradients for human detection
 Navneet Dalal, Bill Triggs
 A non-local algorithm for image denoising
 Antoni Buades, Bartomeu Coll, Jean-Michel Morel
-Most Cited Papers:
-50089
-Going deeper with convolutions
-C. Szegedy, W. Liu, Y. Jia, P. Sermanet
-40143
-Fully convolutional networks for semantic segmentation
-J. Long, E. Shelhamer, T. Darrell
-13296
-Facenet: A unified embedding for face recognition and clustering
-F. Schroff, D. Kalenichenko, J. Philbin
-6881
-Long-term recurrent convolutional networks for visual recognition and description
-J. Donahue, L. Anne Hendricks
-6490
-Show and tell: A neural image caption generator
-O. Vinyals, A. Toshev, S. Bengio
-ICRA 2015   (Seattle, USA. May 25-30, 2015)
-Best Paper:
+
+# ICRA 2015   (Seattle, USA. May 25-30, 2015)
+
+**Best Paper:**
+
 Observability, Identifiability and Sensitivity of Vision-Aided Inertial Navigation
 Joshua Hernandez, Konstantine Tsotsos, Stefano Soatto
-Best Student Paper:
+
+**Best Student Paper:** 
+
 Grasping without Squeezing: Shear Adhesion Gripper with Fibrillar Thin Film
 Elliot Wright Hawkes, David Christensen, Amy Kyungwon Han, Hao Jiang, Mark Cutkosky
-Best Automation Paper:
+
+**Best Automation Paper:**
+
 Design, Modeling and Control of a Modular Contactless Wafer Handling System
 Bassem Dahroug, Guillaume J. Laurent, Valérian Guelpa, Nadine Le Fort-Piat
-Best Cognitive Robotics Paper:
+
+**Best Cognitive Robotics Paper:**
 Grounding Spatial Relations for Outdoor Robot Navigation
 Abdeslam Boularias, Felix Duvallet, Jean Oh, Anthony Stentz
-Best Medical Robotics Paper:
+
+**Best Medical Robotics Paper:**
 An Ankle-Foot Prosthesis Emulator with Control of Plantarflexion and Inversion-Eversion Torque
 Steven H. Collins, Myunghee Kim, Tianjian Chen, Tianyao Chen
-Best Robot Manipulation Paper:
+
+**Best Robot Manipulation Paper:**
 Learning Contact-Rich Manipulation Skills with Guided Policy Search
 Sergey Levine, Nolan Wagener, Pieter Abbeel
-Best Robot Vision Paper:
+
+**Best Robot Vision Paper:**
 Work Smart, Not Hard: Recalling Relevant Experiences for Vast-Scale but Time-Constrained Localisation
 Chris Linegar, Winston Churchill, Paul Newman
-Best Service Robotics Paper:
+
+**Best Service Robotics Paper:**
 RoboSherlock: Unstructured Information Processing for Robot Perception
 Michael Beetz, Ferenc Balint-Benczedi, Nico Blodow, Daniel Nyga, Thiemo Wiedemeyer, Zoltan-Csaba Marton
-Most Cited Papers:
-775
-Real-time grasp detection using convolutional neural networks
-J. Redmon, A. Angelova
-680
-Visual-lidar odometry and mapping: Low-drift, robust, and fast
-J. Zhang, S. Singh
-632
-PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms
-L. Meier, D. Honegger
-445
-Learning driving styles for autonomous vehicles from demonstration
-M. Kuderer, S. Gulati, W. Burgard
-423
-Batch Informed Trees (BIT): Sampling-based optimal planning via the heuristically guided search of implicit random geometric graphs
-J.D. Gammell, S.S. Srinivasa
-AAAI 2015   (Austin, USA. January 25-30, 2015)
+
+# AAAI 2015   (Austin, USA. January 25-30, 2015)
 Outstanding Paper:
 From Non-Negative to General Operator Cost Partitioning
 Florian Pommerening, Malte Helmert, Gabriele Röger, Jendrik Seipp
 Outstanding Student Paper:
 Surpassing Human-Level Face Verification Performance on LFW with GaussianFace
 Chaochao Lu, Xiaoou Tang
-Most Cited Papers:
-3311
-Learning entity and relation embeddings for knowledge graph completion
-Y. Lin, Z. Liu, M. Sun, Y. Liu, X. Zhu
-2669
-Recurrent convolutional neural networks for text classification
-S. Lai, L. Xu, K. Liu, J. Zhao
-1988
-The network data repository with interactive graph analytics and visualization
-R. Rossi, N. Ahmed
-942
-Obtaining well calibrated probabilities using bayesian binning
-M.P. Naeini, G. Cooper, M. Hauskrecht
-564
-Trustsvd: Collaborative filtering with both the explicit and implicit influence of user trust and of item ratings
-G. Guo, J. Zhang, N. Yorke-Smith
-3DV 2014   (Tokyo, Japan. December 8-11, 2014)
-Best Paper:
+
+# 3DV 2014   (Tokyo, Japan. December 8-11, 2014)
+
+**Best Paper:**
 3D Tracking of Multiple Objects with Identical Appearance using RGB-D Input
 Carl Yuheng Ren, Victor Prisacariu, Olaf Kaehler, Ian Reid, David Murray
-Most Cited Papers:
-110
-Accurate geo-registration by ground-to-aerial image matching
-Q. Shan, C. Wu, B. Curless, Y. Furukawa
-106
-Real-time direct dense matching on fisheye images using plane-sweeping stereo
-C. Häne, L. Heng, G.H. Lee, A. Sizov
-91
-Semantic parametric reshaping of human body models
-Y. Yang, Y. Yu, Y. Zhou, S. Du, J. Davis
-89
-Placeless place-recognition
-S. Lynen, M. Bosse, P. Furgale
-76
-Real-time hand tracking using a sum of anisotropic gaussians model
-S. Sridhar, H. Rhodin, H.P. Seidel
-ECCV 2014   (Zürich, Switzerland. September 6-12, 2014)
-Best Paper:
+
+# ECCV 2014   (Zürich, Switzerland. September 6-12, 2014)
+
+**Best Paper:**
+
 Large-Scale Object Classification using Label Relation Graphs
 J. Deng, N. Ding, Y. Jia, A. Frome, K. Murphy, S. Bengio, Y. Li, H. Neven, H. Adam
 Scene Chronology
@@ -3179,74 +2933,34 @@ J. Engel, T. Schöps, D. Cremers
 3185
 Edge boxes: Locating object proposals from edges
 C.L. Zitnick, P. Dollár
-ICCV 2013   (Sydney, Australia. December 3-6, 2013)
-Best Paper:
+
+# ICCV 2013   (Sydney, Australia. December 3-6, 2013)
+
+**Best Paper:**
 From Large Scale Image Categorization to Entry-Level Categories
 V. Ordonez, J. Deng, Y. Choi, A. Berg, T. Berg
-Most Cited Papers:
-3737
-Action recognition with improved trajectories
-H. Wang, C. Schmid
-1646
-Transfer feature learning with joint distribution adaptation
-M. Long, J. Wang, G. Ding, J. Sun
-1401
-Anchored neighborhood regression for fast example-based super-resolution
-R. Timofte, V. De Smet
-1339
-Unsupervised visual domain adaptation using subspace alignment
-B. Fernando, A. Habrard, M. Sebban
-1210
-DeepFlow: Large displacement optical flow with deep matching
-P. Weinzaepfel, J. Revaud
-3DV 2013   (Seattle, USA. June 29-30, 2013)
-Best Paper:
+
+# 3DV 2013   (Seattle, USA. June 29-30, 2013)
+
+**Best Paper:**
 The Visual Turing Test for Scene Reconstruction
 Qi Shan, Riley Adams, Brian Curless, Yasutaka Furukawa, Steve Seitz
-Most Cited Papers:
-1518
-Towards linear-time incremental structure from motion
-C. Wu
-428
-Real-time 3d reconstruction in dynamic scenes using point-based fusion
-M. Keller, D. Lefloch, M. Lambers, S. Izadi
-124
-The visual turing test for scene reconstruction
-Q. Shan, R. Adams, B. Curless
-110
-Personalization and evaluation of a real-time depth-based full body tracker
-T. Helten, A. Baak, G. Bharaj, M. Müller
-98
-Patch volumes: Segmentation-based consistent mapping with rgb-d cameras
-P. Henry, D. Fox, A. Bhowmik
-ECCV 2012   (Firenze, Italy. October 7-13, 2012)
+
+# ECCV 2012   (Firenze, Italy. October 7-13, 2012)
 Best Paper:
 Segmentation Propagation in ImageNet
 D. Kuettel, M. Guillaumin, V. Ferrari
-Best Student Paper:
+**Best Student Paper:**
 Reconstructing the World’s Museums
 Jianxiong Xiao, Yasutaka Furukawa
-Most Cited Papers:
-5051
-Indoor segmentation and support inference from rgbd images.
-N. Silberman, D. Hoiem, P. Kohli, R. Fergus
-2722
-Exploiting the circulant structure of tracking-by-detection with kernels
-J.F. Henriques, R. Caseiro, P. Martins
-1868
-A naturalistic open source movie for optical flow evaluation
-D.J. Butler, J. Wulff, G.B. Stanley, M.J. Black
-1418
-KAZE features
-P.F. Alcantarilla, A. Bartoli, A.J. Davison
-1073
-Interactive facial feature localization
-V. Le, J. Brandt, Z. Lin, L. Bourdev, T.S. Huang
-ICCV 2011   (Barcelona, Spain. November 6-13, 2011)
-Best Paper:
+
+# ICCV 2011   (Barcelona, Spain. November 6-13, 2011)
+
+**Best Paper:**
+
 Relative Attributes
 D. Parikh, K. Grauman
-Best Student Paper:
+**Best Student Paper:**
 Close the Loop: Joint Blind Image Restoration and Recognition with Sparse Representation Prior
 H. Zhang, J. Yang, Y. Zhang, N. M. Nasrabadi, T. S. Huang
 Most Cited Papers:
