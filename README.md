@@ -4,11 +4,9 @@
 
 **1**- [Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching](https://arxiv.org/abs/2303.14969)
 
-
 [Donggyun Kim](https://scholar.google.com/citations?user=7KkA050AAAAJ&hl=en), [Jinwoo Kim](https://scholar.google.com/citations?user=kHuR_lEAAAAJ&hl=en), [Seongwoong Cho](https://seongwoongcho.github.io/), [Chong Luo](https://scholar.google.com/citations?user=01iBf38AAAAJ&hl=en), [Seunghoon Hong](https://scholar.google.com/citations?user=hvr3ALkAAAAJ&hl=en)
 
 **2**- [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505). 
-
 
 [Bohang Zhang](https://scholar.google.com/citations?user=hJgT4tYAAAAJ&hl=en), [Shengjie Luo](https://scholar.google.com/citations?user=ImWO7WYAAAAJ&hl=zh-CN), [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN), [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en)
 
@@ -45,7 +43,6 @@ __Outstanding Student Paper__:
 
 [Pengfei Ren](https://scholar.google.com/citations?user=TzpecsAAAAAJ&hl=en), Yuchen Chen, [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ&hl=zh-CN), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl=en), Qi Qi, [Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=en), Jianxin Liao
 
-
 **5**- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://ojs.aaai.org/index.php/AAAI/article/view/25118)
 Zhi Cheng, Yanxi Li, [Minjing Dong](https://scholar.google.com/citations?user=gJJRqlsAAAAJ&hl=zh-CN), [Xiu Su](https://scholar.google.com/citations?user=7OMxmYcAAAAJ&hl=zh-CN), [Shan You](https://scholar.google.com/citations?user=rFe-3twAAAAJ&hl=en), [Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ&hl=en)
 
@@ -66,13 +63,13 @@ Lintao Dong, Wei Zhai, [Zheng-Jun Zha](https://www.semanticscholar.org/author/Zh
 
  Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan 
 
-**10**- SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification
+**10**- [SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification](https://arxiv.org/abs/2302.09683)
 
-Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao
+Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&hl=zh-CN), [Yaqing Wang](https://scholar.google.com/citations?user=_Rfg2CAAAAAJ&hl=zh-CN), Xiaoqian Wang, [Lu Su](https://scholar.google.com/citations?user=38RuCN4AAAAJ&hl=zh-CN), [Jing Gao](https://scholar.google.com/citations?user=Ftj1h4cAAAAJ&hl=zh-CN)
 
-**11**- XRand: Differentially Private Defense against Explanation-Guided Attacks
+**11**- [XRand: Differentially Private Defense against Explanation-Guided Attacks](https://arxiv.org/abs/2212.04454)
 
-Truc Nguyen, Phung Lai, Hai Phan, My T. Thai
+[Truc Nguyen](https://scholar.google.com.vn/citations?user=CoG--EkAAAAJ&hl=en), [Phung Lai, [NhatHai Phan](https://scholar.google.com/citations?user=nsEbWjAAAAAJ&hl=en), [My T. Thai](https://scholar.google.com/citations?user=zLLJimcAAAAJ&hl=en)
 
 **12**- Clustering What Matters: Optimal Approximation for Clustering with Outliers
 
