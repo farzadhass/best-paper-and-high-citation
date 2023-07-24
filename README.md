@@ -41,18 +41,17 @@ __Outstanding Student Paper__:
 [Taoran Fang](https://www.researchgate.net/profile/Taoran-Fang), Zhiqing Xiao, [Chunping Wang](https://scholar.google.com/citations?user=Rmy5RogAAAAJ&hl=zh-CN), [Jiarong Xu](https://galina0217.github.io/), [Xuan Yang](https://scholar.google.com/citations?user=HaA2AWIAAAAJ&hl=en), Yang Yang
 
 
-4- Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation
+4- [Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/download/25310/25082)
 
 [Pengfei Ren](https://scholar.google.com/citations?user=TzpecsAAAAAJ&hl=en), Yuchen Chen, [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ&hl=zh-CN), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl=en), Qi Qi, [Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=en), Jianxin Liao
 
 
-5- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://aibestpape.rs/?sub=RO,ML,CV,NLP,CG,AI)
-
+5- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://ojs.aaai.org/index.php/AAAI/article/view/25118)
 Zhi Cheng, Yanxi Li, [Minjing Dong](https://scholar.google.com/citations?user=gJJRqlsAAAAJ&hl=zh-CN), [Xiu Su](https://scholar.google.com/citations?user=7OMxmYcAAAAJ&hl=zh-CN), [Shan You](https://scholar.google.com/citations?user=rFe-3twAAAAJ&hl=en), [Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ&hl=en)
 
-6- CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU
+6- [CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/abs/2204.06240)
 
-Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin, Youlong Cheng, Yang You
+[Zangwei Zheng](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=en), [Pengtai Xu](https://www.researchgate.net/profile/Pengtai-Xu), [Xuan Zou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en), [Da Tang](https://scholar.google.com/citations?user=00xg8JcAAAAJ&hl=en), Zhen Li, [Chenguang Xi](https://scholar.google.com/citations?user=AAGUBuIAAAAJ&hl=en), Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, [Fuzhao Xue](https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=zh-CN), [Ziheng Qin](https://scholar.google.com/citations?hl=zh-CN&user=I04VhPMAAAAJ), [Youlong Cheng](https://scholar.google.com/citations?user=CSTk_LMAAAAJ&hl=en), [Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=zh-CN)
 
 7- DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification
 
