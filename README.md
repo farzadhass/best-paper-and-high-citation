@@ -46,12 +46,11 @@ __Outstanding Student Paper__:
 [Pengfei Ren](https://scholar.google.com/citations?user=TzpecsAAAAAJ&hl=en), Yuchen Chen, [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ&hl=zh-CN), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl=en), Qi Qi, [Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=en), Jianxin Liao
 
 
-5- Neural Architecture Search for Wide Spectrum Adversarial Robustness
+5- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://aibestpape.rs/?sub=RO,ML,CV,NLP,CG,AI)
 
-Zhi Cheng, Yanxi Li, Minjing Dong, Xiu Su, Shan You, Chang Xu
+Zhi Cheng, Yanxi Li, [Minjing Dong](https://scholar.google.com/citations?user=gJJRqlsAAAAJ&hl=zh-CN), [Xiu Su](https://scholar.google.com/citations?user=7OMxmYcAAAAJ&hl=zh-CN), [Shan You](https://scholar.google.com/citations?user=rFe-3twAAAAJ&hl=en), [Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ&hl=en)
 
 6- CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU
-
 
 Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin, Youlong Cheng, Yang You
 
