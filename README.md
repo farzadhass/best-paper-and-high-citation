@@ -89,21 +89,21 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 **Best Paper:**
 
-**1**- Training Robots to Evaluate Robots: Example-BasedInteractive Reward Functions for Policy Learning
+**1**- [Training Robots to Evaluate Robots: Example-BasedInteractive Reward Functions for Policy Learning](https://arxiv.org/abs/2212.08961)
 
-Kun Huang, Edward S. Hu, Dinesh Jayaraman
+[Kun Huang](https://scholar.google.com/citations?user=CSzbLwUAAAAJ&hl=en), [Edward S. Hu](https://scholar.google.com/citations?user=so6uzIwAAAAJ&hl=en), [Dinesh Jayaraman](https://scholar.google.com/citations?user=QxLpghAAAAAJ&hl=en)
 
 **Best System Paper:**
 
-**2**- Legged Locomotion in Challenging Terrains using Egocentric Vision
+**2**- [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://arxiv.org/abs/2211.07638)
 
-Ananye Agarwal, Ashish Kumar, Jitendra Malik, Deepak Pathak
+[Ananye Agarwal](https://anag.me/), [Ashish Kumar](https://ashish-kmr.github.io/), [Jitendra Malik](https://scholar.google.co.jp/citations?user=aOklxsQAAAAJ&hl=ja), [Deepak Pathak](https://scholar.google.com/citations?user=AEsPCAUAAAAJ&hl=en)
 
 **Special Innovation Paper:**
 
-**3**- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+**3**- [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)
 
-Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng
+[Michael Ahn](https://scholar.google.com/citations?user=xou_1u0AAAAJ&hl=en), [Anthony Brohan](https://www.researchgate.net/scientific-contributions/Anthony-Brohan-2174998459), [Noah Brown](https://scholar.google.com/citations?user=wHuVMCkAAAAJ&hl=en), [Yevgen Chebotar](https://scholar.google.com/citations?user=ADkiClQAAAAJ&hl=en), Omar Cortes, Byron David, [Chelsea Finn](https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=en), [Chuyuan Fu](https://scholar.google.com/citations?user=bDq7MZMAAAAJ&hl=en), [Keerthana Gopalakrishnan](https://scholar.google.com/citations?user=uemlfQYAAAAJ), [Karol Hausman](https://scholar.google.com/citations?user=yy0UFOwAAAAJ&hl=en), [Alex Herzog](https://scholar.google.com/citations?user=jrfFYAIAAAAJ&hl=en), [Daniel Ho](https://scholar.google.com/citations?user=i05Kw5cAAAAJ&hl=en), [Jasmine Hsu](https://scholar.google.com/citations?user=WcXt6YQAAAAJ&hl=en), [Julian Ibarz](https://scholar.google.com/citations?user=l-la0GQAAAAJ&hl=en), [Brian Ichter](https://scholar.google.com/citations?user=-w5DuHgAAAAJ&hl=en), [Alex Irpan](https://scholar.google.com/citations?user=ZZNxNAYAAAAJ&hl=en), [Eric Jang](https://scholar.google.com/citations?user=Izhkp4YAAAAJ&hl=en), Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, [Nikhil J Joshi](https://scholar.google.com/citations?user=Cmf2HdcAAAAJ&hl=en), [Ryan Julian](https://scholar.google.com/citations?user=8C2_ZVsAAAAJ&hl=en), Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng
 
 # NeurIPS 2022   (New Orleans, USA. December 6-14, 2022)
 
