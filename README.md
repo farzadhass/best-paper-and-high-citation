@@ -2,21 +2,21 @@
 
 # ICLR 2023 Kigali, Rwanda. May 1-5, 2023 
 
-1- [Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching](https://arxiv.org/abs/2303.14969)
+**1**- [Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching](https://arxiv.org/abs/2303.14969)
 
 
 [Donggyun Kim](https://scholar.google.com/citations?user=7KkA050AAAAJ&hl=en), [Jinwoo Kim](https://scholar.google.com/citations?user=kHuR_lEAAAAJ&hl=en), [Seongwoong Cho](https://seongwoongcho.github.io/), [Chong Luo](https://scholar.google.com/citations?user=01iBf38AAAAJ&hl=en), [Seunghoon Hong](https://scholar.google.com/citations?user=hvr3ALkAAAAJ&hl=en)
 
-2- [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505). 
+**2**- [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505). 
 
 
 [Bohang Zhang](https://scholar.google.com/citations?user=hJgT4tYAAAAJ&hl=en), [Shengjie Luo](https://scholar.google.com/citations?user=ImWO7WYAAAAJ&hl=zh-CN), [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN), [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en)
 
-3- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+**3**- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
 
 [Ben Poole](https://scholar.google.com/citations?user=i5FMLA4AAAAJ&hl=en), [Ajay Jain](https://scholar.google.ca/citations?user=Ih7iLuUAAAAJ&hl=en), [Jonathan T. Barron](https://scholar.google.com/citations?user=jktWnL8AAAAJ&hl=en), [Ben Mildenhall](https://scholar.google.com/citations?user=NozIDL8AAAAJ&hl=en)
 
-4- [Emergence of Maps in the Memories of Blind Navigation Agents](https://arxiv.org/abs/2301.13261)
+**4**- [Emergence of Maps in the Memories of Blind Navigation Agents](https://arxiv.org/abs/2301.13261)
 
 [Erik Wijmans](https://scholar.google.com/citations?user=9v86038AAAAJ&hl=en), [Manolis Savva](https://scholar.google.com/citations?user=4D2vsdYAAAAJ&hl=en), [Irfan Essa](https://scholar.google.com/citations?user=XM97iScAAAAJ&hl=en), [Stefan Lee](https://scholar.google.com/citations?user=8j3t5HsAAAAJ&hl=en), [Ari S. Morcos](https://scholar.google.com/citations?user=v-A_7UsAAAAJ&hl=en), [Dhruv Batra](https://scholar.google.com/citations?user=_bs7PqgAAAAJ&hl=en)
 
@@ -57,37 +57,32 @@ Zhi Cheng, Yanxi Li, [Minjing Dong](https://scholar.google.com/citations?user=gJ
 
 [Chengliang Liu](https://scholar.google.com.tw/citations?hl=zh-TW&user=ZfVmxqkAAAAJ), [Jie Wen](https://scholar.google.com.tw/citations?user=bsTnbo4AAAAJ&hl=zh-TW), [Xiaoling Luo](https://scholar.google.com.tw/citations?user=d-6X2kUAAAAJ&hl=zh-TW), [Chao Huang](https://scholar.google.com.tw/citations?user=T6yL8BUAAAAJ&hl=zh-TW), [Zhihao Wu](https://scholar.google.com.tw/citations?user=EnmDOYMAAAAJ&hl=zh-TW), [Yong Xu](https://scholar.google.com.tw/citations?user=zOVgYQYAAAAJ&hl=zh-TW)
 
-**8**- Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification
+**8**- [Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/25128)
 
-Lintao Dong, Wei Zhai Zheng-Jun Zha
-
-
-9- MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance Segmentation
+Lintao Dong, Wei Zhai, [Zheng-Jun Zha](https://www.semanticscholar.org/author/Zhengjun-Zha/143962510) 
 
 
-Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan
+**9**- [MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/25481)
 
+ Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan 
 
-10- SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification
-
+**10**- SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification
 
 Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao
 
-
-11- XRand: Differentially Private Defense against Explanation-Guided Attacks
-
+**11**- XRand: Differentially Private Defense against Explanation-Guided Attacks
 
 Truc Nguyen, Phung Lai, Hai Phan, My T. Thai
 
-12- Clustering What Matters: Optimal Approximation for Clustering with Outliers
+**12**- Clustering What Matters: Optimal Approximation for Clustering with Outliers
 
 Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue
 
-13- Robust Average-Reward Markov Decision Processes
+**13**- Robust Average-Reward Markov Decision Processes
 
 Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou
 
-14- Efficient Answer Enumeration in Description Logics with Functional Roles
+**14**- Efficient Answer Enumeration in Description Logics with Functional Roles
 
 Carsten Lutz, Marcin Przybylko
 
