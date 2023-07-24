@@ -24,3 +24,72 @@
 
 # AAAI 2023   (Washington, DC, USA. February 7-14, 2023)
 
+**Outstanding Paper**:
+1- Misspecification in Inverse Reinforcement Learning
+
+
+Joar Skalse, Alessandro Abate
+
+__Outstanding Student Paper__:
+2- Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation
+
+
+Yulu Gan, Yan Bai, Yihang Lou, Xianzheng Ma, Renrui Zhang, Nian Shi, Lin Luo
+
+**Distinguished Paper**:
+3- DropMessage: Unifying Random Dropping for Graph Neural Networks
+
+Taoran Fang, Zhiqing Xiao, Chunping Wang, Jiarong Xu, Xuan Yang, Yang Yang
+
+
+4- Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation
+
+
+Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao
+
+
+5- Neural Architecture Search for Wide Spectrum Adversarial Robustness
+
+
+Zhi Cheng, Yanxi Li, Minjing Dong, Xiu Su, Shan You, Chang Xu
+
+
+6- CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU
+
+
+Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin, Youlong Cheng, Yang You
+
+7- DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification
+
+
+Chengliang Liu, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
+
+
+8- Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification
+
+
+Lintao Dong, Wei Zhai Zheng-Jun Zha
+
+
+9- MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance Segmentation
+
+
+Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan
+
+
+10- SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification
+
+
+Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao
+
+
+11- XRand: Differentially Private Defense against Explanation-Guided Attacks
+Truc Nguyen, Phung Lai, Hai Phan, My T. Thai
+Clustering What Matters: Optimal Approximation for Clustering with Outliers
+Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue
+Robust Average-Reward Markov Decision Processes
+Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou
+Efficient Answer Enumeration in Description Logics with Functional Roles
+Carsten Lutz, Marcin Przybylko
+
+
