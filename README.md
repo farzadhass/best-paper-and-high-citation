@@ -86,12 +86,20 @@ Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao
 
 
 11- XRand: Differentially Private Defense against Explanation-Guided Attacks
+
+
 Truc Nguyen, Phung Lai, Hai Phan, My T. Thai
-Clustering What Matters: Optimal Approximation for Clustering with Outliers
+
+12- Clustering What Matters: Optimal Approximation for Clustering with Outliers
+
 Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue
-Robust Average-Reward Markov Decision Processes
+
+13- Robust Average-Reward Markov Decision Processes
+
 Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou
-Efficient Answer Enumeration in Description Logics with Functional Roles
+
+14- Efficient Answer Enumeration in Description Logics with Functional Roles
+
 Carsten Lutz, Marcin Przybylko
 
 
