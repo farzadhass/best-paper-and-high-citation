@@ -79,6 +79,10 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 [Yue Wang](https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en), [Alvaro Velasquez](https://scholar.google.com/citations?user=1g3pA4cAAAAJ&hl=en), [George Atia](https://scholar.google.com/citations?user=E_8axWQAAAAJ&hl=en), [Ashley Prater-Bennette](https://scholar.google.com/citations?user=f1WPBE8AAAAJ&hl=en), [Shaofeng Zou](https://scholar.google.com/citations?user=abUmi6QAAAAJ&hl=en)
 
+**14**- [Efficient Answer Enumeration in Description Logics with Functional Roles](https://arxiv.org/abs/2211.15248)
+
+[Carsten Lutz](https://scholar.google.de/citations?user=xcsp66oAAAAJ&hl=en), [Marcin Przybylko](https://www.researchgate.net/profile/Marcin-Przybylko-2)
+
 # Edit 
 
 
@@ -3281,10 +3285,3 @@ L. Zhang, M. Yang, X. Feng
 2305
 DTAM: Dense tracking and mapping in real-time
 R.A. Newcombe, S.J. Lovegrove
-
-
-**14**- [Efficient Answer Enumeration in Description Logics with Functional Roles](https://arxiv.org/abs/2211.15248)
-
-[Carsten Lutz](https://scholar.google.de/citations?user=xcsp66oAAAAJ&hl=en), [Marcin Przybylko](https://www.researchgate.net/profile/Marcin-Przybylko-2)
-
-
