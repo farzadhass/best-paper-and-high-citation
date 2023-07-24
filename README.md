@@ -109,17 +109,17 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 **Outstanding Paper:**
 
-**1**- Is Out-of-distribution Detection Learnable?
+**1**- [Is Out-of-distribution Detection Learnable?](https://arxiv.org/abs/2210.14707)
 
-Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, Feng Liu
+[Zhen Fang](https://fang-zhen.github.io/index.html), Yixuan Li, [Jie Lu](https://scholar.google.com.au/citations?user=KKo7jCMAAAAJ&hl=en), [Jiahua Dong](https://scholar.google.com/citations?user=xrXqa8AAAAAJ&hl=zh-CN), [Bo Han](https://scholar.google.com/citations?hl=zh-CN&user=nTNjqHwAAAAJ), [Feng Liu](https://scholar.google.com/citations?user=eqe3JS8AAAAJ&hl=zh-CN)
 
-**3**- Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+**3**- [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
 
-Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Raphael Gontijo-Lopes, Burcu Karagol Ayan, Tim Salimans, Jonathan Ho, David J. Fleet, Mohammad Norouzi
+[Chitwan Saharia](https://scholar.google.co.in/citations?user=JApued4AAAAJ&hl=en), [William Chan](https://scholar.google.com/citations?user=Nla9qfUAAAAJ&hl=en), [Saurabh Saxena](https://scholar.google.com/citations?user=WTz38osAAAAJ&hl=en), Lala Li, [Jay Whang](https://scholar.google.com/citations?user=rBH-cpMAAAAJ&hl=en), [Emily Denton](https://scholar.google.com/citations?user=pcFsc-AAAAAJ&hl=en), [Seyed Kamyar Seyed Ghasemipour](https://scholar.google.ca/citations?user=LHvso9QAAAAJ&hl=en), Burcu Karagol Ayan, [S. Sara Mahdavi](https://scholar.google.com/citations?user=cA0ELoQAAAAJ&hl=en), [Rapha Gontijo Lopes](https://scholar.google.com/citations?user=-wpZQY0AAAAJ&hl=en), [Tim Salimans](https://scholar.google.nl/citations?user=w68-7AYAAAAJ&hl=en), [Jonathan Ho](https://scholar.google.com/citations?user=iVLAQysAAAAJ&hl=en), [David J Fleet](https://scholar.google.com/citations?user=njOmQFsAAAAJ), [Mohammad Norouzi](https://scholar.google.ca/citations?user=Lncr-VoAAAAJ&hl=en)
 
-**2**- Elucidating the Design Space of Diffusion-Based Generative Models
+**2**- [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
 
-Tero Karras, Miika Aittala, Timo Aila, Samuli Laine
+[Tero Karras](https://www.semanticscholar.org/author/Tero-Karras/2976930), [Miika Aittala](https://scholar.google.com/citations?user=-_EKVQ0AAAAJ&hl=en), [Timo Aila](https://scholar.google.com/citations?user=e7abmgkAAAAJ&hl=en), [Samuli Laine](https://scholar.google.com/citations?user=UCXJOTUAAAAJ&hl=en)
 
 **3**- ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
 
