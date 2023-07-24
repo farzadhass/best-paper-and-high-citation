@@ -26,10 +26,9 @@
 
 **Outstanding Paper**:
 
-1- Misspecification in Inverse Reinforcement Learning
+1- [Misspecification in Inverse Reinforcement Learning](https://arxiv.org/abs/2212.03201)
 
-
-Joar Skalse, Alessandro Abate
+[Joar Skalse](https://scholar.google.com/citations?user=GuzLUmQAAAAJ&hl=en), [Alessandro Abate](https://scholar.google.com/citations?user=yskbfM4AAAAJ&hl=en)
 
 __Outstanding Student Paper__:
 
@@ -40,7 +39,7 @@ Yulu Gan, Yan Bai, Yihang Lou, Xianzheng Ma, Renrui Zhang, Nian Shi, Lin Luo
 
 **Distinguished Paper**:
 
-3- [DropMessage: Unifying Random Dropping for Graph Neural Networks](https://arxiv.org/abs/2212.03201)
+3- [DropMessage: Unifying Random Dropping for Graph Neural Networks]
 
 [Taoran Fang](https://www.researchgate.net/profile/Taoran-Fang), [Zhiqing Xiao](https://scholar.google.com/citations?user=Sq_2TBEAAAAJ&hl=en), [Chunping Wang](https://scholar.google.com/citations?user=Rmy5RogAAAAJ&hl=zh-CN), [Jiarong Xu](https://galina0217.github.io/), [Xuan Yang](https://scholar.google.com/citations?user=HaA2AWIAAAAJ&hl=en), Yang Yang
 
