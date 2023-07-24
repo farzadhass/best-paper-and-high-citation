@@ -133,39 +133,39 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en), Yingyan Hou, [Haonan Wang](https://scholar.google.com/citations?user=BP3l2RYAAAAJ&hl=en), Ziming Miao, [Shibin Wu](https://www.researchgate.net/profile/Shibin-Wu), [Hao Sun](https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en), [Qi Chen](https://scholar.google.com/citations?user=5e_o4XUAAAAJ&hl=en), Yuqing Xia, Chengmin Chi, [Guoshuai Zhao](https://scholar.google.com/citations?user=M1tGUAwAAAAJ&hl=zh-CN), Zheng Liu, [Xing Xie](https://scholar.google.com/citations?user=5EQfAFIAAAAJ&hl=en), Hao Allen Sun, Weiwei Deng, Qi Zhang, [Mao Yang](https://scholar.google.com/citations?user=LgJqohwAAAAJ&hl=en)
 
-**6**- High-dimensional limit theorems for SGD: Effective dynamics and critical scaling
+**6**- [High-dimensional limit theorems for SGD: Effective dynamics and critical scaling](https://arxiv.org/abs/2206.04030)
 
-Gerard Ben Arous, Reza Gheissari, Aukosh Jagannath
+[Gerard Ben Arous](https://scholar.google.com/citations?user=8sGC5D4AAAAJ&hl=en), [Reza Gheissari](https://scholar.google.com/citations?user=IQbXmlgAAAAJ&hl=en), [Aukosh Jagannath](https://scholar.google.fr/citations?user=1gpz5TAAAAAJ&hl=en)
 
-**7**- Gradient Descent: The Ultimate Optimizer
+**7**- [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371)
 
-Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
+[Kartik Chandra](https://scholar.google.com/citations?user=oVcz4nIAAAAJ&hl=en), Audrey Xie, [Jonathan Ragan-Kelley](https://scholar.google.com/citations?user=nBcay4oAAAAJ&hl=en), [Erik Meijer](https://scholar.google.com/citations?user=odFMpOYAAAAJ&hl=en)
 
-**8**- Riemannian Score-Based Generative Modelling
+**8**- [Riemannian Score-Based Generative Modelling](https://arxiv.org/abs/2202.02763)
 
-Valentin De Bortoli, Emile Mathieu, Michael John Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet
+[Valentin De Bortoli](https://scholar.google.com/citations?user=dn_F9I4AAAAJ), [Emile Mathieu](https://scholar.google.com/citations?user=g9BjTqgAAAAJ), [Michael Hutchinson](https://scholar.google.com/citations?user=ot1m2GUAAAAJ&hl=en), [James Thornton](https://scholar.google.co.uk/citations?user=oFZHOwgAAAAJ&hl=en), [Yee Whye Teh](https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en), [Arnaud Doucet](https://scholar.google.com/citations?user=W4SZGV8AAAAJ&hl=en)
 
-**9**- Gradient Estimation with Discrete Stein Operators
+**9**- [Gradient Estimation with Discrete Stein Operators](https://arxiv.org/abs/2202.09497)
 
-Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
+[Jiaxin Shi](https://scholar.google.com/citations?user=juZXbFoAAAAJ&hl=en), [Yuhao Zhou](https://scholar.google.com/citations?user=GKLRbxoAAAAJ&hl=en), Jessica Hwang, [Michalis K. Titsias](https://scholar.google.gr/citations?user=B-SbkAwAAAAJ&hl=el), [Lester Mackey](https://scholar.google.com/citations?user=erv7TP0AAAAJ&hl=en)
 
-**10**- An empirical analysis of compute-optimal large language model training
+**10**- [An empirical analysis of compute-optimal large language model training](https://arxiv.org/abs/2203.15556)
 
-Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katherine Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Oriol Vinyals, Jack William Rae, Laurent Sifre
+[Jordan Hoffmann](https://scholar.google.com/citations?user=4A91qjAAAAAJ&hl=en), [Sebastian Borgeaud](https://scholar.google.co.uk/citations?user=-KzSL30AAAAJ&hl=en), [Arthur Mensch](https://scholar.google.fr/citations?user=F8riAN8AAAAJ&hl=fr), Elena Buchatskaya, [Trevor Cai](https://scholar.google.com/citations?user=li9aM1MAAAAJ), Eliza Rutherford, Diego de Las Casas, [Lisa Anne Hendricks](https://scholar.google.com/citations?user=pvyI8GkAAAAJ&hl=en), [Johannes Welbl](https://scholar.google.com/citations?user=SaHRjy4AAAAJ&hl=en), [Aidan Clark](https://scholar.google.com/citations?user=_19DrfIAAAAJ&hl=en), [Tom Hennigan](https://scholar.google.co.uk/citations?user=XnO_69oAAAAJ&hl=en), [Eric Noland](https://www.semanticscholar.org/author/Eric-Noland/51210148), [Katie Millican](https://scholar.google.com/citations?user=xJhN7QcAAAAJ&hl=en), [George van den Driessche](https://scholar.google.com/citations?user=2XfigMEAAAAJ&hl=en), Bogdan Damoc, [Aurelia Guy](https://www.researchgate.net/scientific-contributions/Aurelia-Guy-2209309561), [Simon Osindero](https://scholar.google.com/citations?user=Jq8ZS5kAAAAJ&hl=en), [Karen Simonyan](https://scholar.google.com/citations?user=L7lMQkQAAAAJ&hl=en), [Erich Elsen](https://scholar.google.com/citations?user=5d2Ss9EAAAAJ&hl=en), [Jack W. Rae](https://www.researchgate.net/scientific-contributions/Jack-W-Rae-2139424573), [Oriol Vinyals](https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=en), [Laurent Sifre](https://scholar.google.com/citations?user=0kVh58wAAAAJ&hl=en)
 
-**11**- Beyond neural scaling laws: beating power law scaling via data pruning
+**11**- [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486)
 
-Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari S. Morcos
+[Ben Sorscher](https://scholar.google.com/citations?user=v9-8fLEAAAAJ&hl=en), [Robert Geirhos](https://scholar.google.com/citations?user=w3kGtMIAAAAJ), [Shashank Shekhar](https://scholar.google.com/citations?user=UpV5wyYAAAAJ&hl=en), [Surya Ganguli](https://scholar.google.com/citations?user=rF2VvOgAAAAJ&hl=en), [Ari S. Morcos](https://scholar.google.com/citations?user=v-A_7UsAAAAJ&hl=en)
 
-**12**- On-Demand Sampling: Learning Optimally from Multiple Distributions
+**12**- [On-Demand Sampling: Learning Optimally from Multiple Distributions](https://arxiv.org/abs/2210.12529)
 
-Nika Haghtalab, Michael Jordan, Eric Zhao
+[Nika Haghtalab](https://scholar.google.com/citations?user=C6pnolkAAAAJ&hl=en), [Michael I. Jordan](https://scholar.google.com/citations?user=yxUduqMAAAAJ&hl=en), [Eric Zhao](https://scholar.google.com/citations?user=TrxBpSYAAAAJ)
 
 **Datasets & Benchmarks Best Paper:**
 
-**1**- LAION-5B: An open large-scale dataset for training next generation image-text models
+**1**- [LAION-5B: An open large-scale dataset for training next generation image-text models](https://arxiv.org/abs/2210.08402)
 
-Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade W Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, Patrick Schramowski, Srivatsa R Kundurthy, Katherine Crowson, Ludwig Schmidt, Robert Kaczmarczyk, Jenia Jitsev
+Christoph Schuhmann, [Romain Beaumont](https://scholar.google.com/citations?user=jhtyYGAAAAAJ&hl=en), Richard Vencu, [Cade Gordon](https://scholar.google.com/citations?user=yma-bZUAAAAJ&hl=en), [Ross Wightman](https://scholar.google.com/citations?user=cLfKCzoAAAAJ&hl=en), [Mehdi Cherti](https://scholar.google.com/citations?user=JgOyYi8AAAAJ), Theo Coombes, Aarush Katta, Clayton Mullis, [Mitchell Wortsman](https://scholar.google.com/citations?user=fzRnjFgAAAAJ), [Patrick Schramowski](https://scholar.google.com/citations?user=GD481RkAAAAJ&hl=de), Srivatsa Kundurthy, Katherine Crowson, [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Robert Kaczmarczyk](https://www.researchgate.net/profile/Robert-Kaczmarczyk-2), [Jenia Jitsev](https://scholar.google.de/citations?user=p1FuAMkAAAAJ&hl=en)
 
 **2**- MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 
