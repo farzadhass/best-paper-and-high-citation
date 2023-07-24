@@ -82,21 +82,23 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 # Edit 
 
 
-CoRL 2022   (Auckland, New Zealand. December 14-18, 2022)
-Best Paper:
-Training Robots to Evaluate Robots: Example-BasedInteractive Reward Functions for Policy Learning
+# CoRL 2022   (Auckland, New Zealand. December 14-18, 2022)
+
+**Best Paper:**
+
+**1**- Training Robots to Evaluate Robots: Example-BasedInteractive Reward Functions for Policy Learning
 
 Kun Huang, Edward S. Hu, Dinesh Jayaraman
 
 **Best System Paper:**
 
-Legged Locomotion in Challenging Terrains using Egocentric Vision
+**2**- Legged Locomotion in Challenging Terrains using Egocentric Vision
 
 Ananye Agarwal, Ashish Kumar, Jitendra Malik, Deepak Pathak
 
 **Special Innovation Paper:**
 
-Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+**3**- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
 
 Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng
 
@@ -104,125 +106,164 @@ Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron Dav
 
 **Outstanding Paper:**
 
-Is Out-of-distribution Detection Learnable?
+**1**- Is Out-of-distribution Detection Learnable?
 
 Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, Feng Liu
 
-Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+**3**- Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
 
 Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Raphael Gontijo-Lopes, Burcu Karagol Ayan, Tim Salimans, Jonathan Ho, David J. Fleet, Mohammad Norouzi
 
-Elucidating the Design Space of Diffusion-Based Generative Models
+**2**- Elucidating the Design Space of Diffusion-Based Generative Models
 
 Tero Karras, Miika Aittala, Timo Aila, Samuli Laine
 
-ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
+**3**- ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
 
 Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Kiana Ehsani, Jordi Salvador, Winson Han, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi
 
-Using natural language and program abstractions to instill human inductive biases in machines
+**4**- Using natural language and program abstractions to instill human inductive biases in machines
 
 Sreejan Kumar, Carlos G Correa, Ishita Dasgupta, Raja Marjieh, Michael Hu, Robert D. Hawkins, Jonathan Cohen, Nathaniel Daw, Karthik R Narasimhan, Thomas L. Griffiths
 
-A Neural Corpus Indexer for Document Retrieval
+**5**- A Neural Corpus Indexer for Document Retrieval
 
 Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, Hao Sun, Qi Chen, Yuqing Xia, Chengmin Chi, Guoshuai Zhao, Zheng Liu, Xing Xie, Hao Sun, Weiwei Deng, Qi Zhang, Mao Yang
 
-High-dimensional limit theorems for SGD: Effective dynamics and critical scaling
+**6**- High-dimensional limit theorems for SGD: Effective dynamics and critical scaling
 
 Gerard Ben Arous, Reza Gheissari, Aukosh Jagannath
 
-Gradient Descent: The Ultimate Optimizer
+**7**- Gradient Descent: The Ultimate Optimizer
 
 Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
 
-Riemannian Score-Based Generative Modelling
+**8**- Riemannian Score-Based Generative Modelling
 
 Valentin De Bortoli, Emile Mathieu, Michael John Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet
 
-Gradient Estimation with Discrete Stein Operators
+**9**- Gradient Estimation with Discrete Stein Operators
 
 Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
 
-An empirical analysis of compute-optimal large language model training
+**10**- An empirical analysis of compute-optimal large language model training
 
 Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katherine Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Oriol Vinyals, Jack William Rae, Laurent Sifre
 
-Beyond neural scaling laws: beating power law scaling via data pruning
+**11**- Beyond neural scaling laws: beating power law scaling via data pruning
 
 Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari S. Morcos
 
-On-Demand Sampling: Learning Optimally from Multiple Distributions
+**12**- On-Demand Sampling: Learning Optimally from Multiple Distributions
 
 Nika Haghtalab, Michael Jordan, Eric Zhao
 
 **Datasets & Benchmarks Best Paper:**
 
-LAION-5B: An open large-scale dataset for training next generation image-text models
+**1**- LAION-5B: An open large-scale dataset for training next generation image-text models
 
 Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade W Gordon, Ross Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, Patrick Schramowski, Srivatsa R Kundurthy, Katherine Crowson, Ludwig Schmidt, Robert Kaczmarczyk, Jenia Jitsev
 
-MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
+**2**- MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 
 Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar
 
 **Test of Time:**
 
-ImageNet Classification with Deep Convolutional Neural Networks
+**1**- ImageNet Classification with Deep Convolutional Neural Networks
 
 Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
 
-**Humanoids 2022   (Ginowan, Japan. November 28-30, 2022)***
-Best Oral Paper:
+# Humanoids 2022   (Ginowan, Japan. November 28-30, 2022)
 
-A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions
+**Best Oral Paper:**
+
+**1**- A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions
 Duncan Calvert, Bhavyansh Mishra, Stephen McCrory, Sylvain Bertrand, Robert Griffin, Jerry Pratt
 
-Best Interactive Paper:
+**Best Interactive Paper:**
 
-A Guideline for Humanoid Leg Design with Oblique Axes for Bipedal Locomotion
+**2**- A Guideline for Humanoid Leg Design with Oblique Axes for Bipedal Locomotion
+
 Konrad Fründ, Anton Leonhard Shu, Florian Christoph Loeffl, Christian Ott
-IROS 2022   (Kyoto, Japan. October 23-27, 2022)
-Best Paper:
-SpeedFolding: Learning Efficient Bimanual Folding of Garments
+
+# IROS 2022   (Kyoto, Japan. October 23-27, 2022)
+
+**Best Paper:**
+
+**1-** SpeedFolding: Learning Efficient Bimanual Folding of Garments
+
 Yahav Avigal, Lars Berscheid, Tamim Asfour, Torsten Kroeger, and Ken Goldberg
-Best Student Paper:
-FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update
+
+**Best Student Paper:**
+
+**2**- FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update
+
 Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, and Ji Zhang
-Best Application Paper:
-Soft Tissue Characterisation Using a Novel Robotic Medical Percussion Device with Acoustic Analysis and Neural Networks
+
+**Best Application Paper:**
+
+**3**- Soft Tissue Characterisation Using a Novel Robotic Medical Percussion Device with Acoustic Analysis and Neural Networks
+
 Pilar Zhang Qiu, Yongxuan Tan, Oliver Thompson, Bennet Cobley, and Thrishantha Nanayakkara
-Best Cognitive Robotics Paper:
-Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation
+
+**Best Cognitive Robotics Paper:**
+
+**4**- Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation
+
 Payam Jome Yazdian, Mo Chen, and Angelica Lim
-Best Mobile Manipulation Paper:
-Robot Learning of Mobile Manipulation with Reachability Behavior Priors
+
+**Best Mobile Manipulation Paper:**
+
+**5**- Robot Learning of Mobile Manipulation with Reachability Behavior Priors
+
 Snehal Jauhri, Jan Peters, and Georgia Chalvatzaki
-Best Robot Mechanism and Design Paper:
-Aerial Grasping and the Velocity Sufficiency Region
+
+**Best Robot Mechanism and Design Paper:**
+
+**6**- Aerial Grasping and the Velocity Sufficiency Region
+
 Tony G. Chen, Kenneth Hoffmann, JunEn Low, Keiko Nagami, David Lentink, and Mark Cutkosky
-Best RoboCup Paper:
-RCareWorld: A Human-centric Simulation World for Caregiving Robots
+
+**Best RoboCup Paper:**
+
+**7**- RCareWorld: A Human-centric Simulation World for Caregiving Robots
+
 Ruolin Ye, Wenqiang Xu, Haoyuan Fu, Rajat Kumar, Jenamani, Vy Nguyen, Cewu Lu, Katherine Dimitropoulou, and Tapomayukh Bhattacharjee
-SpeedFolding: Learning Efficient Bimanual Folding of Garments
+
+**8**- SpeedFolding: Learning Efficient Bimanual Folding of Garments
+
 Yahav Avigal, Lars Burscheid, Tamim Asfour, Torsten Kroeger, and Ken Goldberg
-Best Entertainment and Amusement Paper:
-Robot Learning to Paint from Demonstrations
+
+**Best Entertainment and Amusement Paper:**
+
+**9**- Robot Learning to Paint from Demonstrations
+
 Younghyo Park, Seunghun Jeon, and Taeyoon Lee
-Best Safety, Security, and Rescue Robotics Paper:
-Power-based Safety Layer for Aerial Vehicles in Physical Interaction using Lyapunov Exponents
+
+**Best Safety, Security, and Rescue Robotics Paper:**
+
+**10**- Power-based Safety Layer for Aerial Vehicles in Physical Interaction using Lyapunov Exponents
+
 Eugenio Cuniato, Nicholas Lawrance, Marco Tognon, and Roland Siegwart
-Best Agri-Robotics Paper:
-Explicitly Incorporating Spatial Information to Recurrent Networks for Agriculture
+
+**Best Agri-Robotics Paper:**
+
+**11**- Explicitly Incorporating Spatial Information to Recurrent Networks for Agriculture
+
 Claus Smitt, Michael Allan Halstead, Alireza Ahmadi, and Christopher Steven McCool
-Best Industrial Robotics Research for Applications:
-Absolute Position Detection in 7-Phase Sensorless Electric Stepper Motor
+
+**Best Industrial Robotics Research for Applications:**
+
+**12**- Absolute Position Detection in 7-Phase Sensorless Electric Stepper Motor
+
 Vincent Groenhuis, Gijs Rolff, Koen Bosman, Leon Abelmann, and Stefano Stramigioli
-Most Cited Papers:
-29
-Self-supervised noisy label learning for source-free unsupervised domain adaptation
+
+# Most Cited Papers:
+**1**- Self-supervised noisy label learning for source-free unsupervised domain adaptation
+
 W. Chen, L. Lin, S. Yang, D. Xie, S. Pu
-27
+
 Memory-augmented reinforcement learning for image-goal navigation
 L. Mezghan, S. Sukhbaatar, T. Lavril
 23
