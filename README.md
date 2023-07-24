@@ -32,10 +32,9 @@
 
 __Outstanding Student Paper__:
 
-2- Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation
+2- [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)
 
-
-Yulu Gan, Yan Bai, Yihang Lou, Xianzheng Ma, Renrui Zhang, Nian Shi, Lin Luo
+[Yulu Gan](https://scholar.google.com/citations?user=hQ-J_eAAAAAJ&hl=en), [Yan Bai](https://scholar.google.com/citations?hl=en&user=hR0hxdgAAAAJ&view_op=list_works&sortby=pubdate), [Yihang Lou](https://scholar.google.com/citations?user=xDTcPZIAAAAJ&hl=zh-CN), [Xianzheng Ma](https://scholar.google.com/citations?user=NS8g2mMAAAAJ&hl=en), [Renrui Zhang](https://scholar.google.com/citations?user=YlL3xN4AAAAJ&hl=zh-CN), Nian Shi, Lin Luo
 
 **Distinguished Paper**:
 
