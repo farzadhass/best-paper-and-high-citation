@@ -263,196 +263,177 @@ Claus Smitt, Michael Allan Halstead, Alireza Ahmadi, and Christopher Steven McCo
 
 Vincent Groenhuis, Gijs Rolff, Koen Bosman, Leon Abelmann, and Stefano Stramigioli
 
-# Most Cited Papers:
-**1**- Self-supervised noisy label learning for source-free unsupervised domain adaptation
+# SIGGRAPH 2022   (Vancouver, Canada. August 8-11, 2022)
 
-W. Chen, L. Lin, S. Yang, D. Xie, S. Pu
+**Best Paper:**
 
-Memory-augmented reinforcement learning for image-goal navigation
-L. Mezghan, S. Sukhbaatar, T. Lavril
-23
-Articulated object interaction in unknown scenes with whole-body mobile manipulation
-M. Mittal, D. Hoeller, F. Farshidian
-23
-Transferring dexterous manipulation from gpu simulation to a remote real-world trifinger
-A. Allshire, M. MittaI, V. Lodaya
-20
-Learning neuro-symbolic relational transition models for bilevel planning
-R. Chitnis, T. Silver, J.B. Tenenbaum
-CASE 2022   (Mexico City, Mexico. August 20-24, 2022)
-Best Paper:
-Automated Pruning of Polyculture Plants
-Mark Presten, Rishi Parikh, Shrey Aeron, Sandeep Mukherjee, Simeon Adebola, Satvik Sharma, Mark Theis, Walter Teitelbaum, Ken Goldberg
-Best Application Paper:
-Skip Training for Multi-Agent Reinforcement Learning Controller for Industrial Wave Energy Converters
-Soumyendu Sarkar, Vineet Gundecha, Sahand Ghorbanpour, Alexander Shmakov, Ashwin Ramesh Babu, Alexandre Pichard, Mathieu Cocho
-Most Cited Papers:
-89
-Autonomous recharging and flight mission planning for battery-operated autonomous drones
-R. Alyassi, M. Khonji, A. Karapetyan
-39
-Robust optimal control for demand side management of multi-carrier microgrids
-R. Carli, G. Cavone, T. Pippia
-30
-An optimization strategy of price and conversion factor considering the coupling of electricity and gas based on three-stage game
-J. Yang, H. Liu, K. Ma, B. Yang
-18
-Image-based visual impedance force control for contact aerial manipulation
-M. Xu, A. Hu, H. Wang
-14
-Improved meta-heuristics for solving distributed lot-streaming permutation flow shop scheduling problems
-Y. Pan, K. Gao, Z. Li, N. Wu
-SIGGRAPH 2022   (Vancouver, Canada. August 8-11, 2022)
-Best Paper:
-Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency
+**1**- Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency
+
 Budmonde Duinkharjav, Praneeth Chakravarthula, Rachel Brown, Anjul Patney, Qi Sun
-CLIPasso: Semantically Aware Object Sketching
+
+**2**- CLIPasso: Semantically Aware Object Sketching
+
 Yael Vinker, Ehsan Pajouheshgar, Jessica Y. Bo, Roman Christian Bachmann, Amit Bermano, Daniel Cohen-Or, Amir Zamir, Ariel Shamir
-Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
+
+**3**- Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
+
 Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
-Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces
+
+**4**- Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces
+
 Nicholas Sharp, Alec Jacobson
-DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds
+
+**5**- DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds
+
 Sebastian Starke, Ian Mason, Taku Komura
-Most Cited Papers:
-559
-Instant neural graphics primitives with a multiresolution hash encoding
-T. Müller, A. Evans, C. Schied, A. Keller
-252
-Palette: Image-to-image diffusion models
-C. Saharia, W. Chan, H. Chang, C. Lee, J. Ho
-116
-Stylegan-xl: Scaling stylegan to large diverse datasets
-A. Sauer, K. Schwarz, A. Geiger
-40
-Clipasso: Semantically-aware object sketching
-Y. Vinker, E. Pajouheshgar, J.Y. Bo
-38
-Clip2stylegan: Unsupervised extraction of stylegan edit directions
-R. Abdal, P. Zhu, J. Femiani, N. Mitra
-ICML 2022   (Baltimore, USA. July 17-23, 2022)
-Outstanding Paper:
-Stable Conformal Prediction Sets
+
+# ICML 2022   (Baltimore, USA. July 17-23, 2022)
+
+**Outstanding Paper:**
+
+**1**- Stable Conformal Prediction Sets
+
 Eugene Ndiaye
-G-Mixup: Graph Data Augmentation for Graph Classification
+
+**2**- G-Mixup: Graph Data Augmentation for Graph Classification
+
 Xiaotian Han, Zhimeng Jiang, Ninghao Liu, Xia Hu
-Learning Mixtures of Linear Dynamical Systems
+
+**3**- Learning Mixtures of Linear Dynamical Systems
+
 Yanxi Chen, H. Vincent Poor
-The Importance of Non-Markovianity in Maximum State Entropy Exploration
+
+**4**- The Importance of Non-Markovianity in Maximum State Entropy Exploration
+
 Mirco Mutti, Riccardo De Santi, Marcello Restelli
-Do Differentiable Simulators Give Better Policy Gradients?
+
+**5**- Do Differentiable Simulators Give Better Policy Gradients?
+
 Hyung Ju Suh, Max Simchowitz, Kaiqing Zhang, Russ Tedrake
-Causal Conceptions of Fairness and their Consequences
+
+**6**- Causal Conceptions of Fairness and their Consequences
+
 Hamed Nilforoshan, Johann Gaebler, Ravi Shroff, Sharad Goel
-Solving Stackelberg Prediction Game with Least Squares Loss via Spherically Constrained Least Squares Reformulation
+
+**7**- Solving Stackelberg Prediction Game with Least Squares Loss via Spherically Constrained Least Squares Reformulation
+
 Jiali Wang, Wen Huang, Rujun Jiang, Xudong Li, Alex Wang
-Privacy for Free: How does Dataset Condensation Help Privacy?
+
+**8**- Privacy for Free: How does Dataset Condensation Help Privacy?
+
 Tian Dong, Bo Zhao, Lingjuan Lyu
-Bayesian Model Selection, the Marginal Likelihood, and Generalization
+
+**9**- Bayesian Model Selection, the Marginal Likelihood, and Generalization
+
 Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Wilson
-Understanding Dataset Difficulty with V-Usable Information
+
+**10**- Understanding Dataset Difficulty with V-Usable Information
+
 Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta
-Test of Time:
-Poisoning Attacks Against Support Vector Machines
+
+**Test of Time:**
+
+**11**- Poisoning Attacks Against Support Vector Machines
+
 Battista Biggio, Blaine Nelson, Pavel Laskov
-Most Cited Papers:
-358
-Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation
-J. Li, D. Li, C. Xiong, S. Hoi
-307
-Data2vec: A general framework for self-supervised learning in speech, vision and language
-A. Baevski, W.N. Hsu, Q. Xu, A. Babu
-212
-Improving language models by retrieving from trillions of tokens
-S. Borgeaud, A. Mensch, J. Hoffmann
-185
-Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time
-M. Wortsman, G. Ilharco, S.Y. Gadre
-132
-Language models as zero-shot planners: Extracting actionable knowledge for embodied agents
-W. Huang, P. Abbeel, D. Pathak
-RSS 2022   (New York, USA. June 27 - July 1, 2022)
-Best Paper:
-Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+
+**Best Paper:**
+
+**1**- Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+
 Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran Song
-Best Student Paper:
-AK: Attentive Kernel for Information Gathering
+
+**Best Student Paper:**
+
+**1**- AK: Attentive Kernel for Information Gathering
+
 Weizhe Chen, Roni Khardon, and Lantao Liu
-Best Systems Paper:
-Autonomously Untangling Long Cables
+
+**Best Systems Paper:**
+
+**1**- Autonomously Untangling Long Cables
+
 Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael Laskey, and Alejandro Escontrela
-Test of Time:
+
+**Test of Time:**
+
 Sampling-based algorithms for optimal motion planning
+
 Sertac Karaman, Emilio Frazzoli
-Most Cited Papers:
-12
-You only demonstrate once: Category-level manipulation from single visual demonstration
-B. Wen, W. Lian, K. Bekris, S. Schaal
-12
-Iterative residual policy: for goal-conditioned dynamic manipulation of deformable objects
-C. Chi, B. Burchfiel, E. Cousineau, S. Feng
-10
-Prox-qp: Yet another quadratic programming solver for robotics and beyond
-A. Bambade, S. El-Kazdadi, A. Taylor
-7
-Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots
-G. Best, R. Garg, J. Keller, G.A. Hollinger
-7
-Autonomously Untangling Long Cables
-V. Viswanath, K. Shivakumar, J. Kerr
-CVPR 2022   (New Orleans, USA. June 19-24, 2022)
-Best Paper:
-Learning to Solve Hard Minimal Problems
+
+# CVPR 2022   (New Orleans, USA. June 19-24, 2022)
+
+**Best Paper:**
+
+**1**- Learning to Solve Hard Minimal Problems
+
 Petr Hruby, Timothy Duff, Anton Leykin, Tomas Pajdla
-Best Student Paper:
-EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+**Best Student Paper:**
+
+**1**- EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
 Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li
-Best Paper Honorable Mention:
-Dual-Shutter Optical Vibration Sensing
+
+**Best Paper Honorable Mention:**
+
+**1**- Dual-Shutter Optical Vibration Sensing
+
 Mark Sheinin, Dorian Chan, Matthew O'Toole, Srinivasa Narasimhan
-Best Student Paper Honorable Mention:
-Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
+
+**Best Student Paper Honorable Mention:**
+
+**1**- Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
+
 Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan Barron, Pratul Srinivasan
-Most Cited Papers:
-1858
-Masked autoencoders are scalable vision learners
-K. He, X. Chen, S. Xie, Y. Li, P. Dollár
-1281
-A convnet for the 2020s
-Z. Liu, H. Mao, C.Y. Wu, C. Feichtenhofer
-1153
-High-resolution image synthesis with latent diffusion models
-R. Rombach, A. Blattmann, D. Lorenz
-1147
-Resnest: Split-attention networks
-H. Zhang, C. Wu, Z. Zhang, Y. Zhu, H. Lin
-541
-Video swin transformer
-Z. Liu, J. Ning, Y. Cao, Y. Wei, Z. Zhang
-ICRA 2022   (Philadelphia, USA. May 23-27, 2022)
-Outstanding Paper:
-Translating Images into Maps
+
+# ICRA 2022   (Philadelphia, USA. May 23-27, 2022)
+
+**Outstanding Paper:**
+
+**1**- Translating Images into Maps
+
 Avishkar Saha, Oscar Alejandro Mendez Maldonado, Chris Russell, Richard Bowden
-Outstanding Student Paper:
-Interactive Robotic Grasping with Attribute-Guided Disambiguation
+
+**Outstanding Student Paper:**
+
+**1**- Interactive Robotic Grasping with Attribute-Guided Disambiguation
+
 Yang Yang, Xibai Lou, Changhyun Choi
-Outstanding Automation Paper:
-Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching
+
+**Outstanding Automation Paper:**
+
+**1**- Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching
+
 Elias Ariel Marks, Federico Magistri, Cyrill Stachniss
-Outstanding Coordination Paper:
-Decentralized Model Predictive Control for Equilibrium-based Collaborative UAV Bar Transportation
+
+**Outstanding Coordination Paper:**
+
+**1**- Decentralized Model Predictive Control for Equilibrium-based Collaborative UAV Bar Transportation
+
 Roberto Castro Sundin, Pedro Roque, Dimos V. Dimarogonas
-Outstanding Deployed Systems Paper:
-Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robots
+
+**Outstanding Deployed Systems Paper:**
+
+**1**- Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robots
+
 Mihir Kulkarni, Mihir Rahul Dharmadhikari, Marco Tranzatto, Samuel Zimmermann, Victor Reijgwart, Paolo De Petris, Huan Nguyen, Nikhil Vijay Khedekar, Christos Papachristos, Lionel Ott, Roland Siegwart, Marco Hutter, Kostas Alexis
-Outstanding Dynamics and Control Paper:
-Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive Separation
+
+**Outstanding Dynamics and Control Paper:**
+
+**1**- Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive Separation
+
 Xinyu Cai, Shane Kyi Hla Win, Luke Soe Thura Win, Danial Sufiyan, Shaohui Foong
-Outstanding Interaction Paper:
-Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation
+
+**Outstanding Interaction Paper:**
+
+**1**- Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real Adaptation
+
 Dandan Zhang, Zicong Wu, Junhong Chen, Ruiqi Zhu, Adnan Munawar, Bo Xiao, Yuan Guan, Hang Su, Yao Guo, Gregory Scott Fischer, Benny Ping Lai Lo, Guang-Zhong Yang
-Outstanding Learning Paper:
-Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
+
+**Outstanding Learning Paper:**
+
+**1**- Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
 Nasiriany, Soroush; Liu, Huihan; Zhu, Yuke
 Outstanding Locomotion Paper:
 Trajectory Optimization Formulation with Smooth Analytical Derivatives for Track-leg and Wheel-leg Ground Robots
