@@ -434,1188 +434,968 @@ Dandan Zhang, Zicong Wu, Junhong Chen, Ruiqi Zhu, Adnan Munawar, Bo Xiao, Yuan G
 
 **1**- Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
 Nasiriany, Soroush; Liu, Huihan; Zhu, Yuke
+
 Outstanding Locomotion Paper:
+
 Trajectory Optimization Formulation with Smooth Analytical Derivatives for Track-leg and Wheel-leg Ground Robots
 Adwait Mane, Dylan Swart, Jason White, Christian Hubicki
+
 Outstanding Manipulation Paper:
+
 Manipulation of unknown objects via contact configuration regulation
 Neel Doshi, Orion Taylor, Alberto Rodriguez
+
 Outstanding Mechanisms and Design Paper:
+
 Design of a Biomimetic Tactile Sensor for Material Classification
 Kevin Dai, Xinyu Wang, Allison M. Rojas, Evan Harber, Yu Tian, Nicholas Paiva, Joseph Gnehm, Evan Schindewolf, Howie Choset, Victoria Webster-Wood, Lu Li
+
 Outstanding Navigation Paper:
+
 EDPLVO: Efficient Direct Point-Line Visual Odometry
 Lipu Zhou, Guoquan (Paul) Huang, Yinian Mao, Shengze Wang, Michael Kaess
+
 Outstanding Planning Paper:
+
 Non-Gaussian Risk Bounded Trajectory Optimization for Stochastic Nonlinear Systems in Uncertain Environments
 Weiqiao Han, Ashkan M. Jasour, Brian Williams
-Most Cited Papers:
-75
-Opv2v: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication
-R. Xu, H. Xiang, X. Xia, X. Han, J. Li
-71
-Gohome: Graph-oriented heatmap output for future motion estimation
-T. Gilles, S. Sabatini, D. Tsishkou
-64
-Multipath++: Efficient information fusion and trajectory aggregation for behavior prediction
-B. Varadarajan, A. Hefny, A. Srivastava
-56
-GelSlim 3.0: High-resolution measurement of shape, force and slip in a compact tactile-sensing finger
-I.H. Taylor, S. Dong, A. Rodriguez
-53
-R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
-J. Lin, F. Zhang
-ACL 2022   (Dublin, Ireland. May 22-27, 2022)
+
+# ACL 2022   (Dublin, Ireland. May 22-27, 2022)
+
 Best Paper:
+
 Learned Incremental Representations for Parsing
 Nikita Kitaev, Thomas Lu, Dan Klein
+
 Best Special Theme Paper:
+
 Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization
 Aidan Pine, Dan Wells, Nathan Brinklow, Patrick William Littell, Korin Richmond
+
 Best Resource Paper:
+
 DiBiMT: A Novel Benchmark for Measuring Word Sense Disambiguation Biases in Machine Translation
 Niccolò Campolungo, Federico Martelli, Francesco Saina, Roberto Navigli
+
 Best Linguistic Insight Paper:
+
 KinyaBERT: a Morphology-aware Kinyarwanda Language Model
 Antoine Nzeyimana, Andre Niyongabo Rubungo
+
 Outstanding Paper:
-​Evaluating Factuality in Text Simplification
+​
+Evaluating Factuality in Text Simplification
 Ashwin Devaraj, William Berkeley Sheffield, Byron C. Wallace, Junyi Jessy Li
+
 Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue
 Jiawei Zhou, Jason Eisner, Michael Newman, Emmanouil Antonios Platanios, Sam Thomson
+
 Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation
 Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Rong Jin
+
 Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
 Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp
+
 Inducing Positive Perspectives with Text Reframing
 Caleb Ziems, Minzhi Li, Anthony Zhang, Diyi Yang
+
 Ditch the Gold Standard: Re-evaluating Conversational Question Answering
 Huihan Li, Tianyu Gao, Manan Goenka, Danqi Chen
+
 Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons
 Akash Kumar Mohankumar, Mitesh M. Khapra
+
 Compression of Generative Pre-trained Language Models via Quantization
 Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong
-Most Cited Papers:
-22
-KQA pro: A dataset with explicit compositional programs for complex question answering over knowledge base
-S. Cao, J. Shi, L. Pan, L. Nie, Y. Xiang
-20
-Compression of generative pre-trained language models via quantization
-C. Tao, L. Hou, W. Zhang, L. Shang, X. Jiang, Q. Liu
-14
-Rethinking document-level neural machine translation
-Z. Sun, M. Wang, H. Zhou, C. Zhao, S. Huang
-14
-KinyaBERT: a morphology-aware Kinyarwanda language model
-A. Nzeyimana, A.N. Rubungo
-13
-Evaluating factuality in text simplification
-A. Devaraj, W. Sheffield, B.C. Wallace, J.J. Li
-ICLR 2022   (Online. April 25-29, 2022)
+
+# ICLR 2022   (Online. April 25-29, 2022)
+
 Outstanding Paper:
+
 Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models
 Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang
+
 Hyperparameter Tuning with Renyi Differential Privacy
 Nicolas Papernot, Thomas Steinke
+
 Learning Strides in Convolutional Neural Networks
 Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour
+
 Expressiveness and Approximation Properties of Graph Neural Networks
 Floris Geerts, Juan L Reutter
+
 Comparing Distributions by Measuring Differences that Affect Decision Making
 Shengjia Zhao, Abhishek Sinha, Yutong (Kelly) He, Aidan Perreault, Jiaming Song, Stefano Ermon
+
 Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path
 X.Y. Han, Vardan Papyan, David L. Donoho
+
 Bootstrapped Meta-Learning
 Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh
-Most Cited Papers:
-82
-Analytic-dpm: an analytic estimate of the optimal reverse variance in diffusion probabilistic models
-F. Bao, C. Li, J. Zhu, B. Zhang
-46
-Spherical message passing for 3d molecular graphs
-Y. Liu, L. Wang, M. Liu, Y. Lin, X. Zhang
-46
-Pico: Contrastive label disambiguation for partial label learning
-H. Wang, R. Xiao, Y. Li, L. Feng, G. Niu
-43
-Learning fast samplers for diffusion models by differentiating through sample quality
-D. Watson, W. Chan, J. Ho, M. Norouzi
-40
-Post hoc explanations may be ineffective for detecting unknown spurious correlation
-J. Adebayo, M. Muelly, H. Abelson
-AAAI 2022   (Online. February 22 - March 1, 2022)
+
+# AAAI 2022   (Online. February 22 - March 1, 2022)
+
 Outstanding Paper:
+
 Online certification of preference-based fairness for personalized recommendersystems
 Virginie Do, Sam Corbett-Davies, Jamal Atif, Nicolas Usunier
+
 Outstanding Student Paper:
+
 InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation
 Pierre Colombo, Chloé Clavel, Pablo Piantanida
+
 Best Student Abstract:
+
 Annotation Cost-Sensitive Deep Active Learning with Limited Data
 Renaud Bernatchez, Audrey Durand and Flavie Lavoie-Cardinal
+
 Distinguished Paper:
+
 AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning
 Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing
+
 Certified Symmetry and Dominance Breaking for Combinatorial Optimisation
 Bart Bogaerts, Stephan Gocht, Ciaran McCreesh, Jakob Nordström
+
 Online Elicitation of Necessarily Optimal Matchings
 Jannik Peters
+
 Sampling-Based Robust Control of Autonomous Systems with Non-Gaussian Noise
 Thom S. Badings, Alessandro Abate, Nils Jansen, David Parker, Hasan A. Poonawala, Marielle Stoelinga
+
 Subset approximation of Pareto Regions with Bi-objective A*
 Jorge A. Baier, Carlos Hernández, Nicolás Rivera
+
 The SoftCumulative Constraint with Quadratic Penalty
 Yanick Ouellet, Claude-Guy Quimper
+
 Best Demonstration:
+
 A Demonstration of Compositional, Hierarchical Interactive Task Learning
 Aaron Mininger, John Laird
-Most Cited Papers:
-179
-Splitfed: When federated learning meets split learning
-C. Thapa, PCM Arachchige, S. Camtepe
-160
-Transfg: A transformer architecture for fine-grained recognition
-J. He, J.N. Chen, S. Liu, A. Kortylewski, C. Yang
-157
-Preparing High School Teachers to Integrate AI Methods into STEM Classrooms
-I. Lee, B. Perret
-152
-Vision transformers are robust learners
-S. Paul, P.Y. Chen
-130
-Uctransnet: rethinking the skip connections in u-net from a channel-wise perspective with transformer
-H. Wang, P. Cao, J. Wang, O.R. Zaiane
-NeurIPS 2021   (Online. December 6-14, 2021)
+
+# NeurIPS 2021   (Online. December 6-14, 2021)
+
 Outstanding Paper:
+
 A Universal Law of Robustness via Isoperimetry
 Sébastien Bubeck, Mark Sellke
+
 On the Expressivity of Markov Reward
 David Abel, Will Dabney, Anna Harutyunyan, Mark K. Ho, Michael Littman, Doina Precup, Satinder Singh
+
 Deep Reinforcement Learning at the Edge of the Statistical Precipice
 Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, Marc G. Bellemare
+
 MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui
+
 Continuized Accelerations of Deterministic and Stochastic Gradient Descents, and of Gossip Algorithms
 Mathieu Even, Raphaël Berthier, Francis Bach, Nicolas Flammarion, Pierre Gaillard, Hadrien Hendrikx, Laurent Massoulié, Adrien Taylor
+
 Moser Flow: Divergence-based Generative Modeling on Manifolds
 Noam Rozen, Aditya Grover, Maximilian Nickel, Yaron Lipman
+
 Test of Time:
+
 Online Learning for Latent Dirichlet Allocation
 Matthew Hoffman, David Blei, Francis Bach
+
 Datasets & Benchmarks Best Paper:
+
 Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research
 Bernard Koch, Emily Denton, Alex Hanna, Jacob Gates Foster
+
 ATOM3D: Tasks on Molecules in Three Dimensions
 Raphael John Lamarre Townshend, Martin Vögele, Patricia Adriana Suriana, Alexander Derry, Alexander Powers, Yianni Laloudakis, Sidhika Balachandar, Bowen Jing, Brandon M. Anderson, Stephan Eismann, Risi Kondor, Russ Altman, Ron O. Dror
-Most Cited Papers:
-216
-Deep reinforcement learning at the edge of the statistical precipice
-R. Agarwal, M. Schwarzer, P.S. Castro
-155
-Bayesian optimization is superior to random search for machine learning hyperparameter tuning: Analysis of the black-box optimization challenge 2020
-R. Turner, D. Eriksson, M. McCourt
-80
-Mauve: Measuring the gap between neural text and human text using divergence frontiers
-K. Pillutla, S. Swayamdipta, R. Zellers
-55
-Reduced, reused and recycled: The life of a dataset in machine learning research
-B. Koch, E. Denton, A. Hanna, J.G. Foster
-50
-Neurips 2020 efficientqa competition: Systems, analyses and lessons learned
-S. Min, J. Boyd-Graber, C. Alberti
-3DV 2021   (Online. December 1-3, 2021)
+
+# 3DV 2021   (Online. December 1-3, 2021)
+
 Best Paper:
+
 DPFM: Deep Partial Functional Maps
 Souhaib Attaiki, Gautam Pai, Maks Ovsjanikov
+
 Best Student Paper:
+
 RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching
 Lahav Lipson, Zachary Teed, Jia Deng
+
 Best Paper Honorable Mention:
+
 Neural Disparity Refinement for Arbitrary Resolution Stereo
 Filippo Aleotti, Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano
+
 Best Demo:
+
 TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo
 Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers
-Most Cited Papers:
-128
-Exemplar fine-tuning for 3d human model fitting towards in-the-wild 3d human pose estimation
-H. Joo, N. Neverova, A. Vedaldi
-95
-Raft-stereo: Multilevel recurrent field transforms for stereo matching
-L. Lipson, Z. Teed, J. Deng
-85
-A spatio-temporal transformer for 3d human motion prediction
-E. Aksan, M. Kaufmann, P. Cao
-63
-Mix3d: Out-of-context data augmentation for 3d scenes
-A. Nekrasov, J. Schult, O. Litany, B. Leibe
-51
-Sceneformer: Indoor scene generation with transformers
-X. Wang, C. Yeshwanth
-CoRL 2021   (London, England. November 16-18, 2021)
+
+# CoRL 2021   (London, England. November 16-18, 2021)
+
 Best Paper:
+
 A System for General In-Hand Object Re-Orientation
 Tao Chen, Jie Xu, Pulkit Agrawal
+
 Best System Paper:
+
 FlingBot: The Unreasonable Effectiveness of Dynamic Manipulation for Cloth Unfolding
 Huy Ha, Shuran Song
-Most Cited Papers:
-245
-Tnt: Target-driven trajectory prediction
-H. Zhao, J. Gao, T. Lan, C. Sun, B. Sapp
-218
-One thousand and one hours: Self-driving motion prediction dataset
-J. Houston, G. Zuidhof, L. Bergamini
-186
-Transporter networks: Rearranging the visual world for robotic manipulation
-A. Zeng, P. Florence, J. Tompson
-133
-Learning predictive representations for deformable objects using contrastive estimation
-W. Yan, A. Vangipuram, P. Abbeel
-127
-Accelerating reinforcement learning with learned skill priors
-K. Pertsch, Y. Lee, J. Lim
-EMNLP 2021   (Online. November 7-11, 2021)
+
+# EMNLP 2021   (Online. November 7-11, 2021)
+
 Best Long Paper:
 Visually Grounded Reasoning across Languages and Cultures
 Fangyu Liu, Emanuele Bugliarello, Edoardo Maria Ponti, Siva Reddy, Nigel Collier, Desmond Elliott
+
 Best Short Paper:
+
 CHoRaL: Collecting Humor Reaction Labels from Millions of Social Media Users
 Zixiaofan Yang, Shayan Hooshmand, Julia Hirschberg
+
 Outstanding Paper:
+
 MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks
 Cristian-Paul Bara, Sky CH-Wang, Joyce Chai
+
 SituatedQA: Incorporating Extra-Linguistic Contexts into QA
 Michael Zhang, Eunsol Choi
+
 When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute
 Tao Lei
+
 Shortcutted Commonsense: Data Spuriousness in Deep Learning of Commonsense Reasoning
 Ruben Branco, Antonio Branco, Joao Antonio Rodrigues, Joao Ricardo Silva
+
 Best Demonstration Paper:
+
 Datasets: A Community Library for Natural Language Processing
 Quentin Lhoest, Albert Villanova del Moral, Yacine Jernite, Abhishek Thakur, Patrick von Platen, Suraj Patil, Julien Chaumond, Mariama Drame, Julien Plu, Lewis Tunstall, Joe Davison, Mario Šaško, Gunjan Chhablani, Bhavitvya Malik, Simon Brandeis, Teven Le Scao, Victor Sanh, Canwen Xu, Nicolas Patry, Angelina McMillan-Major, Philipp Schmid, Sylvain Gugger, Clément Delangue, Théo Matussière, Lysandre Debut, Stas Bekman, Pierric Cistac, Thibault Goehringer, Victor Mustar, François Lagunas, Alexander Rush, Thomas Wolf
-Most Cited Papers:
-78
-Datasets: A community library for natural language processing
-Q. Lhoest, A.V. del Moral, Y. Jernite, A. Thakur
-61
-REBEL: Relation extraction by end-to-end language generation
-PLH Cabot, R. Navigli
-46
-Visually grounded reasoning across languages and cultures
-F. Liu, E. Bugliarello, E.M. Ponti, S. Reddy
-33
-MAD-G: Multilingual adapter generation for efficient cross-lingual transfer
-A. Ansell, E.M. Ponti, J. Pfeiffer, S. Ruder
-33
-SituatedQA: Incorporating extra-linguistic contexts into QA
-MJQ Zhang, E. Choi
-ICCV 2021   (Online. October 11 - October 17, 2021)
+
+# ICCV 2021   (Online. October 11 - October 17, 2021)
+
 Best Paper:
+
 Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 Ze Liu, Yutong Lin, Yue Cao, Han Hu), Yixuan Wei, Zheng Zhang (MSRA, Stephen Lin, Baining Guo
+
 Best Student Paper:
+
 Pixel-Perfect Structure-from-Motion with Featuremetric Refinement
 Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys
-Most Cited Papers:
-7194
-Swin transformer: Hierarchical vision transformer using shifted windows
-Z. Liu, Y. Lin, Y. Cao, H. Hu, Y. Wei
-1658
-Pyramid vision transformer: A versatile backbone for dense prediction without convolutions
-W. Wang, E. Xie, X. Li, D.P. Fan, K. Song
-1601
-Emerging properties in self-supervised vision transformers
-M. Caron, H. Touvron, I. Misra, H. Jégou
-1085
-Tokens-to-token vit: Training vision transformers from scratch on imagenet
-L. Yuan, Y. Chen, T. Wang, W. Yu, Y. Shi
-946
-Cvt: Introducing convolutions to vision transformers
-H. Wu, B. Xiao, N. Codella, M. Liu, X. Dai
-IROS 2021   (Online. September 27 - October 1, 2021)
+
+# IROS 2021   (Online. September 27 - October 1, 2021)
+
 Best Paper:
+
 Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects
 Tasbolat Taunyazov, Shui Song Luar, Eugene Lim, Hian Hian See, David Lee, Benjamin Tee, Harold Soh
+
 Best Student Paper:
+
 Dynamic Grasping with a “Soft” Drone: From Theory to Practice
 Joshua Fishman, Samuel Ubellacker, Nathan Hughes, Luca Carlone
+
 Best Application Paper:
+
 CCRobot-IV-F A Ducted-Fan-Driven Flying-Type Bridge Stay Cable Climbing Robot
 Wenchao Zhang, Zhenliang Zheng, Xueqi Fu, Sarsenbek Hazken, Huaping Chen, Min Zhao, Ning Ding
+
 Best Cognitive Robotics Paper:
+
 Imagination-enabled Robot Perception
 Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, and Michael Beetz
+
 Best Mobile Manipulation Paper:
+
 Probabilistic Inference in Planning for Partially Observable Long Horizon Problems
 Alphonsus Adu-Bredu, Nikhil Devraj, Pin-Han Lin, Zhen Zeng, Odest Chadwicke Jenkins
+
 Best Robot Mechanism and Design Paper:
+
 A Multi-Modal Robotic Gripper with a Reconfigurable Base: Improving Dexterous Manipulation without Compromising Grasping Efficiency
 Nathan Elangovan, Lucas Gerez, Geng Gao, Minas Liarokapis
+
 Best RoboCup Paper:
+
 Multi-Resolution POMDP Planning for Multi-Object Search in 3D
 Kaiyu Zheng, Yoonchang Sung, George Konidaris, Stefanie Tellex
+
 Best Entertainment and Amusement Paper:
+
 Collaborative Storytelling with Social Robots
 Eric Nichols, Leo Gao, Yurii Vasylkiv, Randy Gomez
+
 Best Safety, Security, and Rescue Robotics Paper:
+
 Alternating Drive-and-Glide Flight Navigation of a Kiteplane for Sound Source Position Estimation
 Makoto Kumon, Hiroshi G. Okuno, Shuichi Tajima
+
 Best Agri-Robotics Paper:
+
 A Robust Illumination-Invariant Camera System for Agricultural Applications
 Abhisesh Silwal, Tanvir Parhar, Francisco Yandun, Harjatin Baweja, George Kantor
-Most Cited Papers:
-152
-inerf: Inverting neural radiance fields for pose estimation
-L. Yen-Chen, P. Florence, J.T. Barron
-95
-F-loam: Fast lidar odometry and mapping
-H. Wang, C. Wang, C.L. Chen
-88
-Autonomous drone racing with deep reinforcement learning
-Y. Song, M. Steinweg, E. Kaufmann
-75
-State-only imitation learning for dexterous manipulation
-I. Radosavovic, X. Wang, L. Pinto
-72
-Lanercnn: Distributed representations for graph-centric motion forecasting
-W. Zeng, M. Liang, R. Liao
-CASE 2021   (Lyon, France. August 23-27, 2021)
+
+# CASE 2021   (Lyon, France. August 23-27, 2021)
+
 Best Paper:
+
 Extended Fabrication-Aware Convolution Learning Framework for Predicting 3D Shape Deformation in Additive Manufacturing
 Yuanxiang Wang, Cesar Ruiz, Qiang Huang
+
 Best Student Paper:
+
 Designing a User-Centred and Data-Driven Controller for Pushrim-Activated Power-Assisted Wheels: A Case Study
 Mahsa Khalili, H.F. Machiel Van der Loos, Jaimie Borisoff
+
 Best Application Paper:
+
 A Seamless Workflow for Design and Fabrication of Multimaterial Pneumatic Soft Actuators
 Lawrence Smith, Travis Hainsworth, Zachary Jordan, Xavier Bell, Robert MacCurdy
+
 Best Healthcare Automation Paper:
+
 Hospital Beds Planning and Admission Control Policies for COVID-19 Pandemic: A Hybrid Computer Simulation Approach
 Yiruo Lu, Yongpei Guan, Xiang Zhong, Jennifer Fishe, Thanh Hogan
-Most Cited Papers:
-111
-Toward teaching by demonstration for robot-assisted minimally invasive surgery
-H. Su, A. Mariani, S.E. Ovur, A. Menciassi
-69
-Iterated greedy algorithms for flow-shop scheduling problems: A tutorial
-Z.Y. Zhao, M.C. Zhou, S.X. Liu
-63
-Efficient and sustainable reconfiguration of distribution networks via metaheuristic optimization
-A.M. Helmi, R. Carli, M. Dotoli
-61
-Stochastic hybrid discrete grey wolf optimizer for multi-objective disassembly sequencing and line balancing planning in disassembling multiple products
-X. Guo, Z. Zhang, L. Qi, S. Liu, Y. Tang
-53
-A hybrid iterated greedy algorithm for a crane transportation flexible job shop problem
-J.Q. Li, Y. Du, K.Z. Gao, P.Y. Duan
-ACL 2021   (Online. August 2-5, 2021)
+
+# ACL 2021   (Online. August 2-5, 2021)
+
 Best Paper:
 Vocabulary Learning via Optimal Transport for Neural Machine Translation
 Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng, Lei Li
+
 Best Theme Paper:
+
 Including Signed Languages in Natural Language Processing
 Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani
+
 Outstanding Paper:
+
 All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text
 Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan, Noah A. Smith
 Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning
 Armen Aghajanyan, Sonal Gupta, Luke Zettlemoyer
+
 Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering
 Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei, Christopher Manning
+
 Neural Machine Translation with Monolingual Translation Memory
 Deng Cai, Yan Wang, Huayang Li, Wai Lam, Lemao Liu
+
 Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers
 Benjamin Marie, Atsushi Fujita, Raphael Rubino
+
 UnNatural Language Inference
 Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau, Adina Williams
-Most Cited Papers:
-112
-All that's' human'is not gold: Evaluating human evaluation of generated text
-E. Clark, T. August, S. Serrano, N. Haduong
-75
-Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning
-H. Liu, D. Tam, M. Muqeeth, J. Mohta
-58
-Multilingual translation from denoising pre-training
-Y. Tang, C. Tran, X. Li, P.J. Chen, N. Goyal
-57
-Scientific credibility of machine translation research: A meta-evaluation of 769 papers
-B. Marie, A. Fujita, R. Rubino
-50
-Including signed languages in natural language processing
-K. Yin, A. Moryossef, J. Hochgesang, Y. Goldberg
+
+
 Humanoids 2020   (Munich, Germany. July 19-21, 2021)
+
 Best Oral Paper:
+
 Development of Musculoskeletal Legs with Planar Interskeletal Structures to Realize Human Comparable Moving Function
 Moritaka Onitsuka, Manabu Nishiura, Kento Kawaharazuka, Kei Tsuzuki, Yasunori Toshimitsu, Yusuke Omura, Yuki Asano, Kei Okada, Koji Kawasaki, Masayuki Inaba
+
 Best Interactive Paper:
+
 Deep Episodic Memory for Verbalization of Robot Experience
 Leonard Bärmann, Fabian Peller-Konrad, Stefan Constantin, Tamim Asfour, Alex Waibel
+
 Mike Stilman Paper:
+
 Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic Robotic Hand Design
 Li Tian, Hanhui Li, QiFa Wang, Xuezeng Du, Jialin Tao, Jordan Chong, Nadia Magnenat Thalmann, Jianmin Zheng
+
 Most Influential Paper:
+
 Capture Point: A Step toward Humanoid Push Recovery
 Jerry Pratt, John Carff, Sergey Drakunov, Ambarish Goswami
-Most Cited Papers:
-12
-Online centroidal angular momentum reference generation and motion optimization for humanoid push recovery
-R. Schuller, G. Mesesan, J. Englsberger
-8
-Towards complex and continuous manipulation: A gesture based anthropomorphic robotic hand design
-L. Tian, H. Li, Q. Wang, X. Du, J. Tao
-7
-Deep episodic memory for verbalization of robot experience
-L. Bärmann, F. Peller-Konrad
-ICML 2021   (Online. July 18-24, 2021)
+
+# ICML 2021   (Online. July 18-24, 2021)
+
 Outstanding Paper:
+
 Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies
 Paul Vicol, Luke Metz, Jascha Sohl-Dickstein
+
 Outstanding Paper - Honorable Mention:
+
 Optimal Complexity in Decentralized Training
 Yucheng Lu, Christopher De Sa
+
 Oops I Took A Gradient: Scalable Sampling for Discrete Distributions
 Will Grathwohl, Kevin Swersky, Milad Hashemi, David Duvenaud, Chris Maddison
+
 Understanding self-supervised learning dynamics without contrastive pairs
 Yuandong Tian, Xinlei Chen, Surya Ganguli
+
 Solving high-dimensional parabolic PDEs using the tensor train format
 Lorenz Richter, Leon Sallandt, Nikolas Nüsken
+
 Test of Time:
+
 Bayesian Learning via Stochastic Gradient Langevin Dynamics
 Yee Teh, Max Welling
-Most Cited Papers:
-5189
-Learning transferable visual models from natural language supervision
-A. Radford, J.W. Kim, C. Hallacy
-3132
-Training data-efficient image transformers & distillation through attention
-H. Touvron, M. Cord, M. Douze, F. Massa
-1597
-Zero-shot text-to-image generation
-A. Ramesh, M. Pavlov, G. Goh, S. Gray
-1136
-Barlow twins: Self-supervised learning via redundancy reduction
-J. Zbontar, L. Jing, I. Misra, Y. LeCun
-1073
-Scaling up visual and vision-language representation learning with noisy text supervision
-C. Jia, Y. Yang, Y. Xia, Y.T. Chen
-RSS 2021   (Online. July 12-16, 2021)
+
+# RSS 2021   (Online. July 12-16, 2021)
+
 Best Paper:
+
 TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments
 Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
+
 Best Student Paper:
+
 Learning Riemannian Manifolds for Geodesic Motion Skills
 Hadi Beik-mohammadi, Soren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo
+
 DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting
 Eric Heiden, Miles Macklin, Yashraj S. Narang, Dieter Fox, Animesh Garg, Fabio Ramos
+
 Best Systems Paper:
+
 TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments
 Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
+
 Test of Time:
+
 SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces
 Hanna Kurniawati, David Hsu, Wee Sun Lee
-Most Cited Papers:
-54
-Disect: A differentiable simulation engine for autonomous robotic cutting
-E. Heiden, M. Macklin, Y. Narang, D. Fox, A. Garg
-44
-TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments.
-C. Cao, H. Zhu, H. Choset, J. Zhang
-21
-Vector Semantic Representations as Descriptors for Visual Place Recognition.
-P. Neubert, S. Schubert, K. Schlegel
-21
-Fast and feature-complete differentiable physics engine for articulated rigid bodies with contact constraints
-K. Werling, D. Omens, J. Lee, I. Exarchos
-15
-Regularized graph matching for correspondence identification under uncertainty in collaborative perception
-P. Gao, R. Guo, H. Lu, H.Z. Zhang
-CVPR 2021   (Online. June 19-25, 2021)
+
+# CVPR 2021   (Online. June 19-25, 2021)
+
 Best Paper:
+
 GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 Michael Niemeyer, Andreas Geiger
+
 Best Student Paper:
+
 Task Programming: Learning Data Efficient Behavior Representations
 Jennifer J. Sun, Ann Kennedy, Eric Zhan, David J. Anderson, Yisong Yue, Pietro Perona
+
 Retrospective Most Impactful Paper from CVPR 2011:
+
 Real-time human pose recognition in parts from single depth image
 Jamie Shotton, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio, Richard Moore, Alex Kipman, Andrew Blake
+
 Baby talk: Understanding and generating simple image descriptions
 Girish Kulkarni, Visruth Premraj, Sagnik Dhar, Siming Li, Yejin Choi, Alexander C. Berg, Tamara L. Berg
-Most Cited Papers:
-2127
-Exploring simple siamese representation learning
-X. Chen, K. He
-1567
-Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
-S. Zheng, J. Lu, H. Zhao, X. Zhu, Z. Luo
-1198
-Coordinate attention for efficient mobile network design
-Q. Hou, D. Zhou, J. Feng
-910
-Scaled-yolov4: Scaling cross stage partial network
-C.Y. Wang, A. Bochkovskiy
-878
-Pre-trained image processing transformer
-H. Chen, Y. Wang, T. Guo, C. Xu
-ICRA 2021   (Online. May 30 - June 5, 2021)
+
+# ICRA 2021   (Online. May 30 - June 5, 2021)
+
 Best Paper:
+
 Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements
 Daolin Ma, Siyuan Dong, Alberto Rodriguez
+
 Best Student Paper:
+
 Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator
 David Juny Yoon, Haowei Zhang, Mona Gridseth, Hugues Thomas, Timothy Barfoot
+
 Best Automation Paper:
+
 Automated Fabrication of the High-Fidelity Cellular Micro-Scaffold through Proportion-Corrective Control of the Photocuring Process
 Xin Li, Huaping Wang, Qing Shi, Jia Xin Liu, Zhanhua Xin, Xinyi Dong, Qiang Huang, Toshio Fukuda
+
 Best Cognitive Robotics Paper:
+
 How to Select and Use Tools? : Active Perception of Target Objects Using Multimodal Deep Learning
 Namiko Saito, Tetsuya Ogata, Satoshi Funabashi, Hiroki Mori, Shigeki Sugano
+
 Best Human-Robot Interaction Paper:
+
 Reactive Human-To-Robot Handovers of Arbitrary Objects
 Wei Yang, Chris Paxton, Arsalan Mousavian, Yu-Wei Chao, Maya Cakmak, Dieter Fox
+
 Best Mechanism and Design Paper:
+
 Soft Hybrid Aerial Vehicle Via Bistable Mechanism
 Xuan Li, Jessica McWilliams, Minchen Li, Cynthia Sung, Chenfanfu Jiang
+
 Best Medical Robotics Paper:
+
 Relational Graph Learning on Visual and Kinematics Embeddings for Accurate Gesture Recognition in Robotic Surgery
 Yonghao Long, Jie Ying Wu, Bo Lu, Yueming Jin, Mathias Unberath, Yunhui Liu, Pheng Ann Heng, Qi Dou
+
 Best Multi-Robot Systems Paper:
+
 Optimal Sequential Stochastic Deployment of Multiple Passenger Robots
 Chris (Yu Hsuan) Lee, Graeme Best, Geoffrey Hollinger
+
 Best Robot Manipulation Paper:
+
 StRETcH: A Soft to Resistive Elastic Tactile Hand
 Carolyn Matl, Josephine Koe, Ruzena Bajcsy
+
 Best Robot Vision Paper:
+
 Interval-Based Visual-LiDAR Sensor Fusion
 Raphael Voges, Bernardo Wagner
+
 Best Service Robotics Paper:
+
 Compact Flat Fabric Pneumatic Artificial Muscle (ffPAM) for Soft Wearable Robotic Devices
 Woojong Kim, Hyunkyu Park, Jung Kim
+
 Best Unmanned Aerial Vehicles Paper:
+
 Aerial Manipulator Pushing a Movable Structure Using a DOB-Based Robust Controller
 Dongjae Lee, Hoseong Seo, Inkyu Jang, Seung Jae Lee, H. Jin Kim
-Most Cited Papers:
-134
-Penet: Towards precise and efficient image guided depth completion
-M. Hu, S. Wang, B. Li, S. Ning, L. Fan
-127
-Joint object detection and multi-object tracking with graph neural networks
-Y. Wang, K. Kitani, X. Weng
-113
-Lvi-sam: Tightly-coupled lidar-visual-inertial odometry via smoothing and mapping
-T. Shan, B. Englot, C. Ratti, D. Rus
-110
-Contact-graspnet: Efficient 6-dof grasp generation in cluttered scenes
-M. Sundermeyer, A. Mousavian
-104
-RADIATE: A radar dataset for automotive perception in bad weather
-M. Sheeny, E. De Pellegrin, S. Mukherjee
-ICLR 2021   (Online. May 3-7, 2021)
+
+# ICLR 2021   (Online. May 3-7, 2021)
+
 Outstanding Paper:
+
 Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters
 Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu
+
 Complex Query Answering with Neural Link Predictors
 Erik Arakelyan, Daniel Daza, Pasquale Minervini, Michael Cochez
+
 EigenGame: PCA as a Nash Equilibrium
 Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel
+
 Learning Mesh-Based Simulation with Graph Networks
 Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter Battaglia
+
 Neural Synthesis of Binaural Speech from Mono Audio
 Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, Yaser Sheikh
+
 Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime
 Atsushi Nitanda, Taiji Suzuki
+
 Rethinking Architecture Selection in Differentiable NAS
 Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+
 Score-Based Generative Modeling through Stochastic Differential Equations
 Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
-Most Cited Papers:
-149
-Simple spectral graph convolution
-H. Zhu, P. Koniusz
-142
-Sdedit: Guided image synthesis and editing with stochastic differential equations
-C. Meng, Y. He, Y. Song, J. Song, J. Wu
-130
-Towards faster and stabilized gan training for high-fidelity few-shot image synthesis
-B. Liu, Y. Zhu, K. Song, A. Elgammal
-126
-Robust early-learning: Hindering the memorization of noisy labels
-X. Xia, T. Liu, B. Han, C. Gong, N. Wang, Z. Ge
-115
-Robust overfitting may be mitigated by properly learned smoothening
-T. Chen, Z. Zhang, S. Liu, S. Chang
-AAAI 2021   (Online. February 2-9, 2021)
+
+# AAAI 2021   (Online. February 2-9, 2021)
+
 Outstanding Paper:
+
 Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
 Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang
 Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets Game Theory
 Stefanos Leonardos, Georgios Piliouras
-Outstanding Paper: Special Track on AI for Social Impact:
+
+Outstanding Paper: 
+
+Special Track on AI for Social Impact:
 Mitigating Political Bias in Language Models through Reinforced Calibration
 Ruibo Liu, Chenyan Jia, Jason W Wei, Guangxuan Xu, Lili Wang, Soroush Vosoughi
+
 Distinguished Paper:
+
 IQ – Incremental Learning for Solving QSAT
 Thomas L Lee, Viktor Tóth, Sean B Holden
+
 Ethically Compliant Sequential Decision Making
 Justin Svegliato, Samer Nashed, Shlomo Zilberstein
+
 On the Tractability of SHAP Explanations
 Guy Van den Broeck, Anton Lykov, Maximilian Schleich, Dan Suciu
+
 Expected Eligibility Traces
 Hado van Hasselt, Sephora Madjiheurem, Matteo Hessel, Andre Barreto, David Silver, Diana Borsa
+
 Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs
 Marcel Wienöbst, Max Bannach, Maciej Liskiewicz
+
 Self-Supervised Multi-View Stereo via Effective Co-Segmentation and Data-Augmentation
 Hongbin Xu, Zhipeng Zhou, Yu Qiao, Wenxiong Kang, Qiuxia Wu
+
 Best 3-Minute Presentation:
+
 Are Chess Discussions Racist? An Adversarial Hate Speech Data Set
 Rupak Sarkar, Ashiqur R. Khudabukhs
+
 Best Demonstration:
+
 TAILOR: Teaching with Active and Incremental Learning for Object Registration
 Qianli Xu, Nicolas Gauthier, Wenyu Liang, Fen Fang, Hui Li Tan, Ying Sun, Yan Wu, Liyuan Li, Joo-Hwee Lim
-Most Cited Papers:
-989
-Informer: Beyond efficient transformer for long sequence time-series forecasting
-H. Zhou, S. Zhang, J. Peng, S. Zhang, J. Li
-526
-Tabnet: Attentive interpretable tabular learning
-S.Ö. Arik, T. Pfister
-452
-R3det: Refined single-stage detector with feature refinement for rotating object
-X. Yang, J. Yan, Z. Feng, T. He
-320
-Voxel r-cnn: Towards high performance voxel-based 3d object detection
-J. Deng, S. Shi, P. Li, W. Zhou, Y. Zhang
-266
-Contrastive clustering
-Y. Li, P. Hu, Z. Liu, D. Peng, J.T. Zhou
-NeurIPS 2020   (Online. December 6-12, 2020)
+
+# NeurIPS 2020   (Online. December 6-12, 2020)
+
 Best Paper:
+
 No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium
 Andrea Celli, Alberto Marchesi, Gabriele Farina, Nicola Gatti
+
 Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method
 Michal Derezinski, Rajiv Khanna, Michael W. Mahoney
+
 Language Models are Few-Shot Learners
 Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei
+
 Test of Time:
+
 HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent
 Feng Niu, Benjamin Recht, Christopher Re, Stephen Wright
-Most Cited Papers:
-10095
-Language models are few-shot learners
-T. Brown, B. Mann, N. Ryder
-284
-The second conversational intelligence challenge (convai2)
-E. Dinan, V. Logacheva, V. Malykh, A. Miller
-67
-A framework for efficient robotic manipulation
-A. Zhan, R. Zhao, L. Pinto, P. Abbeel
-65
-Airsim drone racing lab
-R. Madaan, N. Gyde, S. Vemprala
-58
-The tracking machine learning challenge: accuracy phase
-S. Amrouche, L. Basara, P. Calafiura, V. Estrade, S. Farrell
-3DV 2020   (Online. November 25-28, 2020)
+
+# 3DV 2020   (Online. November 25-28, 2020)
+
 Best Paper:
+
 Grasping Field: Learning Implicit Representations for Human Grasps
 Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang
-Most Cited Papers:
-96
-Grasping field: Learning implicit representations for human grasps
-K. Karunratanakul, J. Yang, Y. Zhang
-73
-NodeSLAM: Neural object descriptors for multi-view shape reconstruction
-E. Sucar, K. Wada, A. Davison
-68
-Self-supervised learning of point clouds via orientation estimation
-O. Poursaeed, T. Jiang, H. Qiao, N. Xu
-63
-Learning monocular dense depth from events
-J. Hidalgo-Carrió, D. Gehrig
-56
-PLACE: Proximity learning of articulation and contact in 3D environments
-S. Zhang, Y. Zhang, Q. Ma, M.J. Black
-EMNLP 2020   (Online. November 16-20, 2020)
+
+# EMNLP 2020   (Online. November 16-20, 2020)
+
 Best Paper:
+
 Digital voicing of Silent Speech
 David Gaddy, Dan Klein
+
 Best Demonstration Paper:
-🤗 Transformers: State-of-the-art Natural Language Processing
+
+Transformers: State-of-the-art Natural Language Processing
 Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander M. Rush
-Most Cited Papers:
-2443
-Transformers: State-of-the-art natural language processing
-T. Wolf, L. Debut, V. Sanh, J. Chaumond
-233
-IndicNLPSuite: Monolingual corpora, evaluation benchmarks and pre-trained multilingual language models for Indian languages
-D. Kakwani, A. Kunchukuttan, S. Golla
-184
-Event extraction as machine reading comprehension
-J. Liu, Y. Chen, K. Liu, W. Bi, X. Liu
-118
-Convolution over hierarchical syntactic and lexical graphs for aspect level sentiment analysis
-M. Zhang, T. Qian
-112
-XGLUE: A new benchmark datasetfor cross-lingual pre-training, understanding and generation
-Y. Liang, N. Duan, Y. Gong, N. Wu, F. Guo
-CoRL 2020   (Online. November 16-18, 2020)
+
+# CoRL 2020   (Online. November 16-18, 2020)
+
 Best Paper:
+
 Learning Latent Representations to Influence Multi-Agent Interaction
 Annie Xie, Dylan Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
+
 Best System Paper:
+
 SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving
-Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Zhengbang Zhu, Yihan Ni, Nhat Nguyen, Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen, Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
+Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Zhengbang Zhu, Yihan Ni, Nhat Nguyen, Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng Tian, 
+Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen, Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
+
 Best Presentation:
+
 Accelerating Reinforcement Learning with Learned Skill Priors
 Karl Pertsch, Youngwoon Lee, Joseph Lim
-Most Cited Papers:
-560
-Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning
-T. Yu, D. Quillen, Z. He, R. Julian
-286
-Deep dynamics models for learning dexterous manipulation
-A. Nagabandi, K. Konolige, S. Levine
-261
-Learning by cheating
-D. Chen, B. Zhou, V. Koltun
-260
-End-to-end multi-view fusion for 3d object detection in lidar point clouds
-Y. Zhou, P. Sun, Y. Zhang, D. Anguelov
-242
-Learning latent plans from play
-C. Lynch, M. Khansari, T. Xiao, V. Kumar
-IROS 2020   (Online. October 25 - January 24, 2020)
+
+# IROS 2020   (Online. October 25 - January 24, 2020)
+
 Best Paper:
+
 SwingBot: Learning Physical Features from In-Hand Tactile Exploration for Dynamic Swing-Up Manipulation
 Chen Wang, Shaoxiong Wang, Branden Romero, Veiga Filipe Fernandes Veiga, Edward Adelson
+
 Best Student Paper:
+
 Computational Design of Balanced Open Link Planar Mechanisms with Counterweights from User Sketches
 Takuto Takahashi, Hiroshi G. Okuno, Shigeki Sugano, Stelian Coros, Bernhard Thomaszewski
+
 Best Application Paper:
+
 MHYRO: Modular HYbrid RObot for Contact Inspection and Maintenance in Oil & Gas Plants
 Abraham López, Pedro J. Sanchez-Cuevas, Alejandro Suarez, Ámbar Soldado, Anibal Ollero
+
 Best Cognitive Robotics Paper:
+
 Representation and Experience-Based Learning of Explainable Models for Robot Action Execution
 Alex Mitrevski, Paul G. Plöger, Gerhard Lakemeyer
+
 Best Robot Mechanism and Design Paper:
+
 FreeBOT: A Freeform Modular Self-Reconfigurable Robot with Arbitrary Connection Point - Design and Implementation
 Guanqi Liang, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam
+
 Best RoboCup Paper:
+
 Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion
 Seungwoo Hong, Joon-Ha Kim, Hae-Won Park
+
 Best Entertainment and Amusement Paper:
+
 Towards Micro Robot Hydrobatics: Vision-based Guidance, Navigation, and Control for Agile Underwater Vehicles in Confined Environments
 Daniel Andre Duecker, Nathalie Bauschmann, Tim Hansen, Edwin Kreuzer, Robert Seifried
+
 Best Safety, Security, and Rescue Robotics Paper:
+
 Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion
 Amanda Bouman, Muhammad Fadhil Ginting, Nikhilesh Alatur, Matteo Palieri, David D. Fan
-Most Cited Papers:
-583
-Lio-sam: Tightly-coupled lidar inertial odometry via smoothing and mapping
-T. Shan, B. Englot, D. Meyers, W. Wang
-233
-3d multi-object tracking: A baseline and new evaluation metrics
-X. Weng, J. Wang, D. Held, K. Kitani
-208
-CLOCs: Camera-LiDAR object candidates fusion for 3D object detection
-S. Pang, D. Morris, H. Radha
-139
-Antipodal robotic grasping using generative residual convolutional neural network
-S. Kumra, S. Joshi, F. Sahin
-137
-Deep reinforcement learning for industrial insertion tasks with visual inputs and natural rewards
-G. Schoettler, A. Nair, J. Luo, S. Bahl
-ECCV 2020   (Online. August 23-28, 2020)
+
+# ECCV 2020   (Online. August 23-28, 2020)
+
 Best Paper:
+
 RAFT: Recurrent All-Pairs Field Transforms for Optical Flow
 Zachary Teed, Jia Deng
-Most Cited Papers:
-6108
-End-to-end object detection with transformers
-N. Carion, F. Massa, G. Synnaeve, N. Usunier
-1732
-Contrastive multiview coding
-Y. Tian, D. Krishnan, P. Isola
-1140
-Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
-X. Li, X. Yin, C. Li, P. Zhang, X. Hu, L. Zhang
-1058
-Raft: Recurrent all-pairs field transforms for optical flow
-Z. Teed, J. Deng
-925
-Object-contextual representations for semantic segmentation
-Y. Yuan, X. Chen, J. Wang
-CASE 2020   (Online. August 20-21, 2020)
+
+# CASE 2020   (Online. August 20-21, 2020)
+
 Best Paper:
+
 Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile
 Ziyue Li, Hao Yan, Chen Zhang, Fugee Tsung
+
 Best Student Paper:
+
 Simulating Polyculture Farming to Tune Automation Policies for Plant Diversity and Precision Irrigation
 Yahav Avigal, Jensen Gao, William Wong, Kevin Li, Grady Pierroz, Fang Shuo Deng, Mark Theis, Mark Presten, Ken Goldberg
+
 Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-In-Hand Visual Servoing
 Lidong Yang, Li Zhang
+
 Best Application Paper:
+
 A System for Human-In-The-Loop Simulation of Industrial Collaborative Robot Applications
 Maximilian Metzner, Daniel Utsch, Walter Matthias, Christian Hofstetter, Christina Ramer, Andreas Blank, Jörg Franke
-Most Cited Papers:
-173
-Neural RRT*: Learning-based optimal path planning
-J. Wang, W. Chi, C. Li, C. Wang
-167
-Admittance-based controller design for physical human–robot interaction in the constrained task space
-W. He, C. Xue, X. Yu, Z. Li, C. Yang
-110
-Robust optimal energy management of a residential microgrid under uncertainties on demand and renewable power generation
-S.M. Hosseini, R. Carli, M. Dotoli
-103
-Multiresource-constrained selective disassembly with maximal profit and minimal energy consumption
-X. Guo, M.C. Zhou, S. Liu, L. Qi
-103
-Profit-maximized collaborative computation offloading and resource allocation in distributed cloud and edge computing systems
-H. Yuan, M.C. Zhou
-ICML 2020   (Online. July 13-18, 2020)
+
+# ICML 2020   (Online. July 13-18, 2020)
+
 Outstanding Paper:
+
 On Learning Sets of Symmetric Elements
 Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya
+
 Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems
 Kaixuan Wei, Angelica I Aviles-Rivero, Jingwei Liang, Ying Fu, Carola-Bibiane Schönlieb, Hua Huang
+
 Test of Time:
+
 Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design
 Niranjan Srinivas, Andreas Krause, Sham Kakade, Matthias Seeger
-Most Cited Papers:
-9967
-A simple framework for contrastive learning of visual representations
-T. Chen, S. Kornblith, M. Norouzi
-1259
-Scaffold: Stochastic controlled averaging for federated learning
-S.P. Karimireddy, S. Kale, M. Mohri
-1180
-Pegasus: Pre-training with extracted gap-sentences for abstractive summarization
-J. Zhang, Y. Zhao, M. Saleh, P. Liu
-1132
-Data-efficient image recognition with contrastive predictive coding
-O. Henaff
-978
-Generative pretraining from pixels
-M. Chen, A. Radford, R. Child, J. Wu
-RSS 2020   (Online. July 12-16, 2020)
+
+# RSS 2020   (Online. July 12-16, 2020)
+
 Best Paper:
+
 Learning Agile Robotic Locomotion Skills by Imitating Animals
 Xue Bin Peng, Erwin Coumans, Tingnan Zhang, Tsang-Wei Lee, Jie Tan, Sergey Levine
+
 Best Student Paper:
+
 A Continuous Representation of Belief over SO(3) for Robust Rotation Learning with Uncertainty
 Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly
+
 Best Systems Paper:
+
 AlphaPilot: Autonomous Drone Racing
 Philipp Foehn, Dario Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi Muglikar, Davide Scaramuzza
+
 Test of Time:
+
 Square Root SAM: Simultaneous localization and mapping via square root information smoothing
 Frank Dellaert, Michael Kaess
-Most Cited Papers:
-285
-Learning agile robotic locomotion skills by imitating animals
-X.B. Peng, E. Coumans, T. Zhang, T.W. Lee, J. Tan
-26
-ALGAMES: A Fast Solver for Constrained Dynamic Games.
-S. Le Cleac'h, M. Schwager
-26
-Learning from interventions: Human-robot interaction as both explicit and implicit feedback
-J. Spencer, S. Choudhury, M. Barnes
-24
-A global quasi-dynamic model for contact-trajectory optimization in manipulation
-B. Aceituno-Cabezas, A. Rodriguez
-21
-Online imu intrinsic calibration: Is it necessary?
-Y. Yang, P. Geneva, X. Zuo, G. Huang
-ACL 2020   (Online. July 5-10, 2020)
+
+# ACL 2020   (Online. July 5-10, 2020)
+
 Best Paper:
 Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
 Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
+
 Best Theme Paper:
+
 Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data
 Emily M. Bender, Alexander Koller
+
 Best Demonstration Paper:
+
 GAIA: A Fine-grained Multimedia Knowledge Extraction System
 Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman
-Most Cited Papers:
-652
-Beyond accuracy: Behavioral testing of NLP models with CheckList
-M.T. Ribeiro, T. Wu, C. Guestrin, S. Singh
-545
-Climbing towards NLU: On meaning, form, and understanding in the age of data
-E.M. Bender, A. Koller
-107
-Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definition
-D. Howcroft, A. Belz, M. Clinciu, D. Gkatzia
-86
-NLP-based feature extraction for the detection of COVID-19 misinformation videos on YouTube
-JCM Serrano, O. Papakyriakopoulos
-59
-Gaia: A fine-grained multimedia knowledge extraction system
-M. Li, A. Zareian, Y. Lin, X. Pan, S. Whitehead
-CVPR 2020   (Online. June 16-18, 2020)
+
+# CVPR 2020   (Online. June 16-18, 2020)
+
 Best Paper:
 Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
 Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi
+
 Best Student Paper:
+
 BSP-Net: Generating Compact Meshes via Binary Space Partitioning
 Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang
-Most Cited Papers:
-7085
-Momentum contrast for unsupervised visual representation learning
-K. He, H. Fan, Y. Wu, S. Xie
-3643
-Analyzing and improving the image quality of stylegan
-T. Karras, S. Laine, M. Aittala, J. Hellsten
-3614
-Efficientdet: Scalable and efficient object detection
-M. Tan, R. Pang, Q.V. Le
-2761
-nuscenes: A multimodal dataset for autonomous driving
-H. Caesar, V. Bankiti, A.H. Lang, S. Vora
-2241
-CSPNet: A new backbone that can enhance learning capability of CNN
-C.Y. Wang, HYM Liao, Y.H. Wu
-ICRA 2020   (Online. May 31 - August 31, 2020)
+
+# ICRA 2020   (Online. May 31 - August 31, 2020)
+
 Best Paper:
+
 Preference-Based Learning for Exoskeleton Gait Optimization
 Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel Burdick, Aaron Ames
+
 Best Student Paper:
+
 Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
 Shenli Yuan, Austin Epps, Jerome Nowak, Kenneth Salisbury
+
 Best Automation Paper:
+
 Securing Industrial Operators with Collaborative Robots: Simulation and Experimental Validation for a Carpentry Task
 Nassim Benhabib, Vincent Padois, David Daney
+
 Best Cognitive Robotics Paper:
+
 Semantic Linking Maps for Active Visual Object Search
 Zhen Zeng, Adrian Röfer, Odest Chadwicke Jenkins
+
 Best Human-Robot Interaction Paper:
+
 Preference-Based Learning for Exoskeleton Gait Optimization
 Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel Burdick, Aaron Ames
+
 Best Medical Robotics Paper:
+
 Fault Tolerant Control in Shape-Changing Internal Robots
 Lavanya Balasubramanian, Tom Wray, Dana Damian
+
 Best Multi-Robot Systems Paper:
+
 Distributed Multi-Target Tracking for Autonomous Vehicle Fleets
 Ola Shorinwa, Javier Yu, Trevor Halsted, Alex Koufos, Mac Schwager
+
 Best Robot Manipulation Paper:
+
 Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
 Shenli Yuan, Austin Epps, Jerome Nowak, Kenneth Salisbury
+
 Best Robot Vision Paper:
+
 Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection
 Heng Yang, Pasquale Antonante, Vasileios Tzoumas, Luca Carlone
+
 Best Service Robotics Paper:
+
 Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments
 Stewart Jamieson, Jonathan Patrick How, Yogesh Girdhar
+
 Best Unmanned Aerial Vehicles Paper:
+
 Design and Autonomous Stabilization of a Ballistically Launched Multirotor
 Amanda Bouman, Paul Nadan, Matthew Anderson, Daniel Pastor, Jacob Izraelevitz, Joel Burdick, Brett Kennedy
-Most Cited Papers:
-338
-Kimera: an open-source library for real-time metric-semantic localization and mapping
-A. Rosinol, M. Abate, Y. Chang
-260
-The oxford radar robotcar dataset: A radar extension to the oxford robotcar dataset
-D. Barnes, M. Gadd, P. Murcutt
-259
-Openvins: A research platform for visual-inertial estimation
-P. Geneva, K. Eckenhoff, W. Lee, Y. Yang
-202
-Crocoddyl: An efficient and versatile framework for multi-contact optimal control
-C. Mastalli, R. Budhiraja, W. Merkt
-190
-Loam livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV
-J. Lin, F. Zhang
-AAAI 2020   (New York, USA. February 7-12, 2020)
+
+# AAAI 2020   (New York, USA. February 7-12, 2020)
+
 Outstanding Paper:
+
 WinoGrande: An Adversarial Winograd Schema Challenge at Scale
 Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
+
 Outstanding Student Paper:
+
 Fair Division of Mixed Divisible and Indivisible Goods
 Xiaohui Bei, Zihao Li, Jinyan Liu, Shengxin Liu, Xinhang Lu
+
 Outstanding Paper: Special Track on AI for Social Impact:
+
 A Distributed Multi-Sensor Machine Learning Approach to Earthquake Early Warning
 Kevin Fauvel, Daniel Balouek-Thomert, Diego Melgar, Pedro Silva, Anthony Simonet, Gabriel Antoniu, Alexandru Costan, Véronique Masson, Manish Parashar, Ivan Rodero, Alexandre Termier
-Most Cited Papers:
-2726
-Random erasing data augmentation
-Z. Zhong, L. Zheng, G. Kang, S. Li, Y. Yang
-1683
-Distance-IoU loss: Faster and better learning for bounding box regression
-Z. Zheng, P. Wang, W. Liu, J. Li, R. Ye
-666
-Improved knowledge distillation via teacher assistant
-S.I. Mirzadeh, M. Farajtabar, A. Li, N. Levine
-631
-Unicoder-vl: A universal encoder for vision and language by cross-modal pre-training
-G. Li, N. Duan, Y. Fang, M. Gong, D. Jiang
-629
-Gman: A graph multi-attention network for traffic prediction
-C. Zheng, X. Fan, C. Wang, J. Qi
-NeurIPS 2019   (Vancouver, Canada. December 8-14, 2019)
+
+# NeurIPS 2019   (Vancouver, Canada. December 8-14, 2019)
+
 Outstanding Paper:
+
 Distribution-Independent PAC Learning of Halfspaces with Massart Noise
 Ilias Diakonikolas, Themis Gouleakis, Christos Tzamos
+
 Outstanding New Directions Paper:
+
 Uniform convergence may be unable to explain generalization in deep learning
 Vaishnavh Nagarajan, J. Zico Kolter
+
 Test of Time:
+
 Dual Averaging Method for Regularized Stochastic Learning and Online Optimization
 Lin Xiao
-Most Cited Papers:
-333
-Q8bert: Quantized 8bit bert
-O. Zafrir, G. Boudoukh, P. Izsak
-197
-Uniform convergence may be unable to explain generalization in deep learning
-V. Nagarajan, J.Z. Kolter
-93
-YOLO nano: A highly compact you only look once convolutional neural network for object detection
-A. Wong, M. Famuori, M.J. Shafiee, F. Li
-88
-CORD: a consolidated receipt dataset for post-OCR parsing
-S. Park, S. Shin, B. Lee, J. Lee, J. Surh
-67
-Distribution-independent pac learning of halfspaces with massart noise
-I. Diakonikolas, T. Gouleakis
-IROS 2019   (Macau, China. November 4-8, 2019)
+
+# IROS 2019   (Macau, China. November 4-8, 2019)
+
 Best Paper:
+
 Planning Reactive Manipulation in Dynamic Environments
 Philipp Sebastian Schmitt, Florian Wirnshofer, Kai M. Wurm, Georg v. Wichert, Wolfram Burgard
+
 Best Student Paper:
+
 Efficient and Guaranteed Planar Pose Graph Optimization Using the Complex Number Representation
 Taosha Fan, Hanlin Wang, Michael Rubenstein, Todd Murphey
+
 Best Application Paper:
+
 Visual Servoing of Miniature Magnetic Film Swimming Robots for 3D Arbitrary Path Following
 Chenyang Huang, Tiantian Xu, Jia Liu, Laliphat Manamanchaiyaporn, Xinyu Wu
+
 Best Cognitive Robotics Paper:
 Planning Beyond The Sensing Horizon Using a Learned Context
 Michael Everett, Justin Miller, Jonathan Patrick How
+
 Best RoboCup Paper:
+
 Motion Decoupling and Composition via Reduced Order Model Optimization for Dynamic Humanoid Walking with CLF-QP based Active Force Control
 Xiaobin Xiong, Aaron Ames
+
 Best Novel Technology Paper for Amusement Culture:
+
 Responsive Joint Attention in Human-Robot Interaction
 André Pereira, Catharine Oertel, Leonor Fermoselle, Joe Mendelson, Joakim Gustafson
+
 Best Safety, Security, and Rescue Robotics Paper:
+
 Optimization Based Motion Planning for Multi-Limbed Vertical Climbing Robots
 Xuan Lin, Jingwen Zhang, Junjie Shen, Gabriel Ikaika Fernandez, Dennis Hong
-Most Cited Papers:
-637
-Rangenet++: Fast and accurate lidar semantic segmentation
-A. Milioto, I. Vizzo, J. Behley
-377
-Frustum convnet: Sliding frustums to aggregate local point-wise features for amodal 3d object detection
-Z. Wang, K. Jia
-265
-Suma++: Efficient lidar-based semantic slam
-X. Chen, A. Milioto, E. Palazzolo
-140
-Faster: Fast and safe trajectory planner for flights in unknown environments
-J. Tordesillas, B.T. Lopez, J.P. How
-136
-Variable impedance control in end-effector space: An action space for reinforcement learning in contact-rich tasks
-R. Martín-Martín, M.A. Lee, R. Gardner
-EMNLP 2019   (Hong Kong, China. November 3-7, 2019)
+
+# EMNLP 2019   (Hong Kong, China. November 3-7, 2019)
+
 Best Paper:
+
 Specializing Word Embeddings (for Parsing) by Information Bottleneck
 Xiang Lisa Li, Jason Eisner
+
 Best Resource Paper:
+
 Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala English
 Francisco Guzmán, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample, Philipp Koehn, Vishrav Chaudhary, Marc’Aurelio Ranzato
+
 Best Demo Paper:
+
 AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models
 Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner, Sameer Singh
-Most Cited Papers:
-700
-Justifying recommendations using distantly-labeled reviews and fine-grained aspects
-J. Ni, J. Li, J. McAuley
-259
-Heterogeneous graph attention networks for semi-supervised short text classification
-H. Linmei, T. Yang, C. Shi, H. Ji, X. Li
-237
-Aspect-level sentiment analysis via convolution over dependency tree
-K. Sun, R. Zhang, S. Mensah, Y. Mao
-216
-Fine-grained analysis of propaganda in news article
-G. Da San Martino, S. Yu, A. Barrón-Cedeno
-202
-Commonsense knowledge mining from pretrained models
-J. Davison, J. Feldman, A.M. Rush
-CoRL 2019   (Osaka, Japan. October 30 - November 1, 2019)
+
+# CoRL 2019   (Osaka, Japan. October 30 - November 1, 2019)
+
 Best Paper:
+
 A Divergence Minimization Perspective on Imitation Learning Methods
 Seyed Kamyar Seyed Ghasemipour, Richard Semel, Shixiang Gu
+
 Best System Paper:
+
 Learning to Manipulate Object Collections Using Grounded State Representations
 Matthew Wilson, Tucker Hermans
+
 Best Presentation:
+
 Bayesian Optimization Meets Riemannian Manifolds in Robot Learning
 Noemie Jaquier, Leonel Rozo, Sylvain Calinon, Mathias Burger
-Most Cited Papers:
-166
-A divergence minimization perspective on imitation learning methods
-SKS Ghasemipour, R. Zemel
-48
-Learning to generalize kinematic models to novel objects
-B. Abbatematteo, S. Tellex, G. Konidaris
-35
-Bayesian optimization meets Riemannian manifolds in robot learning
-N. Jaquier, L. Rozo, S. Calinon
-22
-Learning to manipulate object collections using grounded state representations
-M. Wilson, T. Hermans
-ICCV 2019   (Seoul, Korea. October 27 - November 2, 2019)
+
+# ICCV 2019   (Seoul, Korea. October 27 - November 2, 2019)
+
 Best Paper:
+
 SinGAN: Learning a Generative Model from a Single Natural Image
 Tamar Rott Shaham, Tali Dekel, Tomer Michaeli
+
 Best Student Paper:
+
 PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility
 Timothy Duff, Kathlén Kohn, Anton Leykin, Tomas Pajdla
-Most Cited Papers:
-4274
-Searching for mobilenetv3
-A. Howard, M. Sandler, G. Chu
-3655
-Fcos: Fully convolutional one-stage object detection
-Z. Tian, C. Shen, H. Chen, T. He
-3061
-Cutmix: Regularization strategy to train strong classifiers with localizable features
-S. Yun, D. Han, S.J. Oh, S. Chun
-2172
-Slowfast networks for video recognition
-C. Feichtenhofer, H. Fan, J. Malik
-1983
-Centernet: Keypoint triplets for object detection
-K. Duan, S. Bai, L. Xie, H. Qi
+
 Humanoids 2019   (Toronto, Canada. October 15-17, 2019)
+
 Best Oral Paper:
+
 Footstep Planning for Autonomous Walking Over Rough Terrain
 Robert J. Griffin, Georg Wiedebach, Stephen McCrory, Sylvain Bertrand, Inho Lee, Jerry Pratt
+
 Best Interactive Paper:
+
 Formal Connections between Template and Anchor Models via Approximate Simulation
 Vince Kurtz, Rafael Rodrigues da Silva, Patrick M. Wensing, Hai Lin
+
 Mike Stilman Paper:
+
 A Robot Design Method for Weight Saving Aimed at Dynamic Motions: Design of Humanoid JAXON3-P and Realization of Jump Motions
 Kunio Kojima, Yuta Kojio, Tatsuya Ishikawa, Fumihito Sugai, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
-Most Cited Papers:
-62
-Footstep planning for autonomous walking over rough terrain
-R.J. Griffin, G. Wiedebach, S. McCrory
-42
-Dynamic walking on compliant and uneven terrain using DCM and passivity-based whole-body control
-G. Mesesan, J. Englsberger, G. Garofalo
-24
-Data-driven model predictive control for the contact-rich task of food cutting
-I. Mitsioni, Y. Karayiannidis, J.A. Stork
-23
-Whole-body geometric retargeting for humanoid robots
-K. Darvish, Y. Tirupachuri, G. Romualdi
-20
-Leveraging multimodal haptic sensory data for robust cutting
-K. Zhang, M. Sharma, M. Veloso
 
 # 3DV 2019   (Québec, Canada. September 16-19, 2019)
 
