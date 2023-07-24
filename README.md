@@ -167,36 +167,37 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 Christoph Schuhmann, [Romain Beaumont](https://scholar.google.com/citations?user=jhtyYGAAAAAJ&hl=en), Richard Vencu, [Cade Gordon](https://scholar.google.com/citations?user=yma-bZUAAAAJ&hl=en), [Ross Wightman](https://scholar.google.com/citations?user=cLfKCzoAAAAJ&hl=en), [Mehdi Cherti](https://scholar.google.com/citations?user=JgOyYi8AAAAJ), Theo Coombes, Aarush Katta, Clayton Mullis, [Mitchell Wortsman](https://scholar.google.com/citations?user=fzRnjFgAAAAJ), [Patrick Schramowski](https://scholar.google.com/citations?user=GD481RkAAAAJ&hl=de), Srivatsa Kundurthy, Katherine Crowson, [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Robert Kaczmarczyk](https://www.researchgate.net/profile/Robert-Kaczmarczyk-2), [Jenia Jitsev](https://scholar.google.de/citations?user=p1FuAMkAAAAJ&hl=en)
 
-**2**- MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge
+**2**- [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)
 
-Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar
+[Linxi Fan](https://scholar.google.com/citations?user=sljtWIUAAAAJ&hl=en), [Guanzhi Wang](https://scholar.google.com/citations?user=QDmEj4MAAAAJ), [Yunfan Jiang](https://scholar.google.com/citations?user=s8Epvl4AAAAJ), [Ajay Mandlekar](https://scholar.google.com/citations?user=MEz23joAAAAJ), [Yuncong Yang](https://scholar.google.com/citations?hl=en&user=IgQuUY0AAAAJ), [Haoyi Zhu](https://www.haoyizhu.site/), Andrew Tang, [De-An Huang](https://scholar.google.com/citations?user=HEY3UzgAAAAJ), [Yuke Zhu](https://scholar.google.com/citations?user=mWGyYMsAAAAJ&hl=en), [Anima Anandkumar](https://scholar.google.com/citations?user=bEcLezcAAAAJ&hl=en)
 
 **Test of Time:**
 
-**1**- ImageNet Classification with Deep Convolutional Neural Networks
+**1**- [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
-Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
+[Alex Krizhevsky](https://scholar.google.com/citations?user=xegzhJcAAAAJ&hl=en), [Ilya Sutskever](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en), [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ)
 
 # Humanoids 2022   (Ginowan, Japan. November 28-30, 2022)
 
 **Best Oral Paper:**
 
-**1**- A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions
-Duncan Calvert, Bhavyansh Mishra, Stephen McCrory, Sylvain Bertrand, Robert Griffin, Jerry Pratt
+**1**- [A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions](https://arxiv.org/abs/2207.08312)
+
+Duncan Calvert, [Bhavyansh Mishra](https://scholar.google.com/citations?user=XzPu6zQAAAAJ), [Stephen McCrory](https://scholar.google.com/citations?user=L8ozqB8AAAAJ&hl=en), [Sylvain Bertrand](https://scholar.google.com/citations?user=t3jIVzcAAAAJ&hl=en), Robert Griffin, [Jerry Pratt](https://scholar.google.com/citations?user=NfeARS4AAAAJ&hl=en)
 
 **Best Interactive Paper:**
 
-**2**- A Guideline for Humanoid Leg Design with Oblique Axes for Bipedal Locomotion
+**2**- [A Guideline for Humanoid Leg Design with Oblique Axes for Bipedal Locomotion](https://elib.dlr.de/192270/2/ICHR22_Fruend_Oblique_axes_Dez_copyright.pdf)
 
-Konrad Fründ, Anton Leonhard Shu, Florian Christoph Loeffl, Christian Ott
+Konrad Fründ, Anton Leonhard Shu, [Florian Christoph Loeffl](https://www.researchgate.net/scientific-contributions/Florian-Christoph-Loeffl-2120316963), [Christian Ott](https://scholar.google.de/citations?user=FOgCAxsAAAAJ&hl=en)
 
 # IROS 2022   (Kyoto, Japan. October 23-27, 2022)
 
 **Best Paper:**
 
-**1-** SpeedFolding: Learning Efficient Bimanual Folding of Garments
+**1-** [SpeedFolding: Learning Efficient Bimanual Folding of Garments](https://arxiv.org/abs/2208.10552)
 
-Yahav Avigal, Lars Berscheid, Tamim Asfour, Torsten Kroeger, and Ken Goldberg
+[Yahav Avigal](https://scholar.google.com/citations?user=CCAaFCQAAAAJ), [Lars Berscheid](https://www.researchgate.net/scientific-contributions/Lars-Berscheid-2048462383), [Tamim Asfour](https://scholar.google.com/citations?user=65bIT4oAAAAJ&hl=en), [Torsten Kröger](https://scholar.google.com/citations?user=bfec5vAAAAAJ), [Ken Goldberg](https://scholar.google.com/citations?user=8fztli4AAAAJ&hl=en)
 
 **Best Student Paper:**
 
