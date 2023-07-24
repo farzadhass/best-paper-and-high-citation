@@ -11,8 +11,8 @@ auther:
 auther:
 [Bohang Zhang](https://scholar.google.com/citations?user=hJgT4tYAAAAJ&hl=en), [Shengjie Luo](https://scholar.google.com/citations?user=ImWO7WYAAAAJ&hl=zh-CN), [Liwei Wang](https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN), [Di He](https://scholar.google.co.jp/citations?user=orVoz4IAAAAJ&hl=en)
 
-3- DreamFusion: Text-to-3D using 2D Diffusion
-Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall
+3- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+[Ben Poole](https://scholar.google.com/citations?user=i5FMLA4AAAAJ&hl=en), [Ajay Jain](https://scholar.google.ca/citations?user=Ih7iLuUAAAAJ&hl=en), [Jonathan T. Barron](https://scholar.google.com/citations?user=jktWnL8AAAAJ&hl=en), [Ben Mildenhall](https://scholar.google.com/citations?user=NozIDL8AAAAJ&hl=en)
 
 4- Emergence of Maps in the Memories of Blind Navigation Agents
 Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari S. Morcos, Dhruv Batra
