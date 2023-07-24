@@ -4,7 +4,7 @@
 
 # Paper Awards:
 1- Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching [arxiv](https://arxiv.org/abs/2303.14969)
-Donggyun Kim, Jinwoo Kim, Seongwoong Cho, Chong Luo, Seunghoon Hong
+[Donggyun Kim](https://scholar.google.com/citations?user=7KkA050AAAAJ&hl=en), [Jinwoo Kim](https://scholar.google.com/citations?user=kHuR_lEAAAAJ&hl=en), [Seongwoong Cho](https://seongwoongcho.github.io/), Chong Luo, Seunghoon Hong
 
 2- Rethinking the Expressive Power of GNNs via Graph Biconnectivity
 Bohang Zhang, Shengjie Luo, Liwei Wang, Di He
