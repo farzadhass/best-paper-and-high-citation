@@ -121,17 +121,17 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 [Tero Karras](https://www.semanticscholar.org/author/Tero-Karras/2976930), [Miika Aittala](https://scholar.google.com/citations?user=-_EKVQ0AAAAJ&hl=en), [Timo Aila](https://scholar.google.com/citations?user=e7abmgkAAAAJ&hl=en), [Samuli Laine](https://scholar.google.com/citations?user=UCXJOTUAAAAJ&hl=en)
 
-**3**- ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
+**3**- [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://arxiv.org/abs/2206.06994)
 
-Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Kiana Ehsani, Jordi Salvador, Winson Han, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi
+[Matt Deitke](https://scholar.google.com/citations?user=k4VxCcYAAAAJ&hl=en), [Eli VanderBilt](https://scholar.google.com/citations?user=RQDywYwAAAAJ&hl=en), [Alvaro Herrasti](https://scholar.google.de/citations?user=89Knd5YAAAAJ&hl=en), [Luca Weihs](https://scholar.google.com/citations?user=F_RBceUAAAAJ&hl=en), [Jordi Salvador](https://scholar.google.de/citations?user=YuRVs2oAAAAJ&hl=en), [Kiana Ehsani](https://scholar.google.com/citations?user=RScZCLEAAAAJ&hl=en), Winson Han, [Eric Kolve](https://www.semanticscholar.org/author/Eric-Kolve/3386570), [Ali Farhadi](https://scholar.google.com/citations?user=jeOFRDsAAAAJ&hl=en), [Aniruddha Kembhavi](https://scholar.google.com/citations?user=JnUevM0AAAAJ&hl=en), [Roozbeh Mottaghi](https://scholar.google.com/citations?user=CCV58dgAAAAJ&hl=en)
 
-**4**- Using natural language and program abstractions to instill human inductive biases in machines
+**4**- [Using natural language and program abstractions to instill human inductive biases in machines](https://arxiv.org/abs/2205.11558)
 
-Sreejan Kumar, Carlos G Correa, Ishita Dasgupta, Raja Marjieh, Michael Hu, Robert D. Hawkins, Jonathan Cohen, Nathaniel Daw, Karthik R Narasimhan, Thomas L. Griffiths
+[Sreejan Kumar](https://scholar.google.com/citations?user=Hft2m4wAAAAJ&hl=en), [Carlos G Correa](https://scholar.google.com/citations?user=_Lt_IHMAAAAJ&hl=en), [Ishita Dasgupta](https://scholar.google.com/citations?user=eJt6cSIAAAAJ&hl=en), [Raja Marjieh](https://scholar.google.com/citations?user=h-pwCMUAAAAJ&hl=en), [Michael Hu](https://scholar.google.com/citations?user=TyyftvAAAAAJ&hl=en), [Robert D. Hawkins](https://scholar.google.com/citations?user=7EPsnxEAAAAJ&hl=en), [Nathaniel D. Daw](https://scholar.google.com/citations?user=BxlScrEAAAAJ&hl=en), [Jonathan D. Cohen](https://scholar.google.com/citations?user=NCkkQAMAAAAJ&hl=en), [Karthik Narasimhan](https://scholar.google.com/citations?user=euc0GX4AAAAJ&hl=en), [Thomas L. Griffiths](https://scholar.google.com/citations?user=UAwKvEsAAAAJ&hl=en)
 
-**5**- A Neural Corpus Indexer for Document Retrieval
+**5**- [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/abs/2206.02743)
 
-Yujing Wang, Yingyan Hou, Haonan Wang, Ziming Miao, Shibin Wu, Hao Sun, Qi Chen, Yuqing Xia, Chengmin Chi, Guoshuai Zhao, Zheng Liu, Xing Xie, Hao Sun, Weiwei Deng, Qi Zhang, Mao Yang
+[Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en), Yingyan Hou, [Haonan Wang](https://scholar.google.com/citations?user=BP3l2RYAAAAJ&hl=en), Ziming Miao, [Shibin Wu](https://www.researchgate.net/profile/Shibin-Wu), [Hao Sun](https://scholar.google.com/citations?user=PaxAtLkAAAAJ&hl=en), [Qi Chen](https://scholar.google.com/citations?user=5e_o4XUAAAAJ&hl=en), Yuqing Xia, Chengmin Chi, [Guoshuai Zhao](https://scholar.google.com/citations?user=M1tGUAwAAAAJ&hl=zh-CN), Zheng Liu, [Xing Xie](https://scholar.google.com/citations?user=5EQfAFIAAAAJ&hl=en), Hao Allen Sun, Weiwei Deng, Qi Zhang, [Mao Yang](https://scholar.google.com/citations?user=LgJqohwAAAAJ&hl=en)
 
 **6**- High-dimensional limit theorems for SGD: Effective dynamics and critical scaling
 
