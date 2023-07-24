@@ -69,18 +69,18 @@ Tianci Liu, [Haoyu Wang](https://scholar.google.com/citations?user=5Lw9_jcAAAAJ&
 
 **11**- [XRand: Differentially Private Defense against Explanation-Guided Attacks](https://arxiv.org/abs/2212.04454)
 
-[Truc Nguyen](https://scholar.google.com.vn/citations?user=CoG--EkAAAAJ&hl=en), [Phung Lai, [NhatHai Phan](https://scholar.google.com/citations?user=nsEbWjAAAAAJ&hl=en), [My T. Thai](https://scholar.google.com/citations?user=zLLJimcAAAAJ&hl=en)
+[Truc Nguyen](https://scholar.google.com.vn/citations?user=CoG--EkAAAAJ&hl=en), Phung Lai, [NhatHai Phan](https://scholar.google.com/citations?user=nsEbWjAAAAAJ&hl=en), [My T. Thai](https://scholar.google.com/citations?user=zLLJimcAAAAJ&hl=en)
 
-**12**- Clustering What Matters: Optimal Approximation for Clustering with Outliers
+**12**- [Clustering What Matters: Optimal Approximation for Clustering with Outliers](https://arxiv.org/abs/2212.00696)
 
-Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue
+[Akanksha Agrawal](https://scholar.google.com/citations?user=V_2z1BEAAAAJ), [Tanmay Inamdar](https://scholar.google.com/citations?user=hnelxH0AAAAJ), [Saket Saurabh](https://scholar.google.co.in/citations?user=76_9TI0AAAAJ&hl=en), [Jie Xue](https://scholar.google.com/citations?user=_ROFeyAAAAAJ)
 
-**13**- Robust Average-Reward Markov Decision Processes
+**13**- [Robust Average-Reward Markov Decision Processes](https://arxiv.org/abs/2301.00858)
 
-Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng Zou
+[Yue Wang](https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en), [Alvaro Velasquez](https://scholar.google.com/citations?user=1g3pA4cAAAAJ&hl=en), [George Atia](https://scholar.google.com/citations?user=E_8axWQAAAAJ&hl=en), [Ashley Prater-Bennette](https://scholar.google.com/citations?user=f1WPBE8AAAAJ&hl=en), [Shaofeng Zou](https://scholar.google.com/citations?user=abUmi6QAAAAJ&hl=en)
 
-**14**- Efficient Answer Enumeration in Description Logics with Functional Roles
+**14**- [Efficient Answer Enumeration in Description Logics with Functional Roles](https://arxiv.org/abs/2211.15248)
 
-Carsten Lutz, Marcin Przybylko
+[Carsten Lutz](https://scholar.google.de/citations?user=xcsp66oAAAAJ&hl=en), [Marcin Przybylko](https://www.researchgate.net/profile/Marcin-Przybylko-2)
 
 
