@@ -14,11 +14,9 @@
 
 3- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
 
-
 [Ben Poole](https://scholar.google.com/citations?user=i5FMLA4AAAAJ&hl=en), [Ajay Jain](https://scholar.google.ca/citations?user=Ih7iLuUAAAAJ&hl=en), [Jonathan T. Barron](https://scholar.google.com/citations?user=jktWnL8AAAAJ&hl=en), [Ben Mildenhall](https://scholar.google.com/citations?user=NozIDL8AAAAJ&hl=en)
 
 4- [Emergence of Maps in the Memories of Blind Navigation Agents](https://arxiv.org/abs/2301.13261)
-
 
 [Erik Wijmans](https://scholar.google.com/citations?user=9v86038AAAAJ&hl=en), [Manolis Savva](https://scholar.google.com/citations?user=4D2vsdYAAAAJ&hl=en), [Irfan Essa](https://scholar.google.com/citations?user=XM97iScAAAAJ&hl=en), [Stefan Lee](https://scholar.google.com/citations?user=8j3t5HsAAAAJ&hl=en), [Ari S. Morcos](https://scholar.google.com/citations?user=v-A_7UsAAAAJ&hl=en), [Dhruv Batra](https://scholar.google.com/citations?user=_bs7PqgAAAAJ&hl=en)
 
@@ -40,13 +38,12 @@ __Outstanding Student Paper__:
 
 3- [DropMessage: Unifying Random Dropping for Graph Neural Networks]
 
-[Taoran Fang](https://www.researchgate.net/profile/Taoran-Fang), [Zhiqing Xiao](https://scholar.google.com/citations?user=Sq_2TBEAAAAJ&hl=en), [Chunping Wang](https://scholar.google.com/citations?user=Rmy5RogAAAAJ&hl=zh-CN), [Jiarong Xu](https://galina0217.github.io/), [Xuan Yang](https://scholar.google.com/citations?user=HaA2AWIAAAAJ&hl=en), Yang Yang
+[Taoran Fang](https://www.researchgate.net/profile/Taoran-Fang), Zhiqing Xiao, [Chunping Wang](https://scholar.google.com/citations?user=Rmy5RogAAAAJ&hl=zh-CN), [Jiarong Xu](https://galina0217.github.io/), [Xuan Yang](https://scholar.google.com/citations?user=HaA2AWIAAAAJ&hl=en), Yang Yang
 
 
 4- Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation
 
-
-Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao
+[Pengfei Ren](https://scholar.google.com/citations?user=TzpecsAAAAAJ&hl=en), Yuchen Chen, [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ&hl=zh-CN), Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao
 
 
 5- Neural Architecture Search for Wide Spectrum Adversarial Robustness
