@@ -1,4 +1,3 @@
-# best-paper-and-high-citation
 
 # ICLR 2023 Kigali, Rwanda. May 1-5, 2023 
 
