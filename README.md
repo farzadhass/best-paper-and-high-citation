@@ -24,43 +24,40 @@
 
 **Outstanding Paper**:
 
-1- [Misspecification in Inverse Reinforcement Learning](https://arxiv.org/abs/2212.03201)
+**1**- [Misspecification in Inverse Reinforcement Learning](https://arxiv.org/abs/2212.03201)
 
 [Joar Skalse](https://scholar.google.com/citations?user=GuzLUmQAAAAJ&hl=en), [Alessandro Abate](https://scholar.google.com/citations?user=yskbfM4AAAAJ&hl=en)
 
 __Outstanding Student Paper__:
 
-2- [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)
+**2**- [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)
 
 [Yulu Gan](https://scholar.google.com/citations?user=hQ-J_eAAAAAJ&hl=en), [Yan Bai](https://scholar.google.com/citations?hl=en&user=hR0hxdgAAAAJ&view_op=list_works&sortby=pubdate), [Yihang Lou](https://scholar.google.com/citations?user=xDTcPZIAAAAJ&hl=zh-CN), [Xianzheng Ma](https://scholar.google.com/citations?user=NS8g2mMAAAAJ&hl=en), [Renrui Zhang](https://scholar.google.com/citations?user=YlL3xN4AAAAJ&hl=zh-CN), Nian Shi, Lin Luo
 
 **Distinguished Paper**:
 
-3- [DropMessage: Unifying Random Dropping for Graph Neural Networks]
+**3**- [DropMessage: Unifying Random Dropping for Graph Neural Networks](https://arxiv.org/abs/2204.10037)
 
 [Taoran Fang](https://www.researchgate.net/profile/Taoran-Fang), Zhiqing Xiao, [Chunping Wang](https://scholar.google.com/citations?user=Rmy5RogAAAAJ&hl=zh-CN), [Jiarong Xu](https://galina0217.github.io/), [Xuan Yang](https://scholar.google.com/citations?user=HaA2AWIAAAAJ&hl=en), Yang Yang
 
 
-4- [Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/download/25310/25082)
+**4**- [Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/download/25310/25082)
 
 [Pengfei Ren](https://scholar.google.com/citations?user=TzpecsAAAAAJ&hl=en), Yuchen Chen, [Jiachang Hao](https://scholar.google.com/citations?user=XRR603kAAAAJ&hl=zh-CN), [Haifeng Sun](https://scholar.google.com/citations?user=dwhbTsEAAAAJ&hl=en), Qi Qi, [Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=en), Jianxin Liao
 
 
-5- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://ojs.aaai.org/index.php/AAAI/article/view/25118)
+**5**- [Neural Architecture Search for Wide Spectrum Adversarial Robustness](https://ojs.aaai.org/index.php/AAAI/article/view/25118)
 Zhi Cheng, Yanxi Li, [Minjing Dong](https://scholar.google.com/citations?user=gJJRqlsAAAAJ&hl=zh-CN), [Xiu Su](https://scholar.google.com/citations?user=7OMxmYcAAAAJ&hl=zh-CN), [Shan You](https://scholar.google.com/citations?user=rFe-3twAAAAJ&hl=en), [Chang Xu](https://scholar.google.com/citations?user=N4F_3eoAAAAJ&hl=en)
 
-6- [CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/abs/2204.06240)
+**6**- [CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU](https://arxiv.org/abs/2204.06240)
 
 [Zangwei Zheng](https://scholar.google.com/citations?user=FTqutJEAAAAJ&hl=en), [Pengtai Xu](https://www.researchgate.net/profile/Pengtai-Xu), [Xuan Zou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en), [Da Tang](https://scholar.google.com/citations?user=00xg8JcAAAAJ&hl=en), Zhen Li, [Chenguang Xi](https://scholar.google.com/citations?user=AAGUBuIAAAAJ&hl=en), Peng Wu, Leqi Zou, Yijie Zhu, Ming Chen, Xiangzhuo Ding, [Fuzhao Xue](https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=zh-CN), [Ziheng Qin](https://scholar.google.com/citations?hl=zh-CN&user=I04VhPMAAAAJ), [Youlong Cheng](https://scholar.google.com/citations?user=CSTk_LMAAAAJ&hl=en), [Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=zh-CN)
 
-7- DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification
+**7**- [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2303.08358)
 
+[Chengliang Liu](https://scholar.google.com.tw/citations?hl=zh-TW&user=ZfVmxqkAAAAJ), [Jie Wen](https://scholar.google.com.tw/citations?user=bsTnbo4AAAAJ&hl=zh-TW), [Xiaoling Luo](https://scholar.google.com.tw/citations?user=d-6X2kUAAAAJ&hl=zh-TW), [Chao Huang](https://scholar.google.com.tw/citations?user=T6yL8BUAAAAJ&hl=zh-TW), [Zhihao Wu](https://scholar.google.com.tw/citations?user=EnmDOYMAAAAJ&hl=zh-TW), [Yong Xu](https://scholar.google.com.tw/citations?user=zOVgYQYAAAAJ&hl=zh-TW)
 
-Chengliang Liu, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
-
-
-8- Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification
-
+**8**- Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification
 
 Lintao Dong, Wei Zhai Zheng-Jun Zha
 
