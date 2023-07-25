@@ -201,9 +201,9 @@ Konrad Fründ, Anton Leonhard Shu, [Florian Christoph Loeffl](https://www.resear
 
 **Best Student Paper:**
 
-**2**- FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update
+**2**- [FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update](https://arxiv.org/abs/2110.09460)
 
-Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, and Ji Zhang
+[Fan Yang](https://scholar.google.com/citations?user=t7p8nOQAAAAJ&hl=en), Chao Cao, Hongbiao Zhu, Jean Oh, Ji Zhang
 
 **Best Application Paper:**
 
