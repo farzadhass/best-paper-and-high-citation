@@ -2,7 +2,7 @@ best paper conferences in AI
 
 [ICLR 2023](https://github.com/farzadhass/best-paper-and-high-citation#iclr-2023-kigali-rwanda-may-1-5-2023)
 
-[AAAI 2023]
+[AAAI 2023](https://github.com/farzadhass/best-paper-and-high-citation/blob/main/README.md#aaai-2023---washington-dc-usa-february-7-14-2023)
 
 
 <picture>
