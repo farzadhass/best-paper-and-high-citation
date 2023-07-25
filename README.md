@@ -1,5 +1,9 @@
 best paper conferences in AI 
+
 [ICLR 2023](https://github.com/farzadhass/best-paper-and-high-citation#iclr-2023-kigali-rwanda-may-1-5-2023)
+
+AAAI 2023
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://prompthero.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWt3TlRNNE9UWTVOeTFpTlRZMUxUUTBOVFV0T0RRNU5TMWtabVkwTXpVNE0ySmhNRGdHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--73ae73cf7d1ade569f4528a8e66cddc5c579cd26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQWd3T2dwellYWmxjbnNKT2hOemRXSnpZVzF3YkdWZmJXOWtaVWtpQjI5dUJqb0dSVlE2Q25OMGNtbHdWRG9PYVc1MFpYSnNZV05sVkRvTWNYVmhiR2wwZVdsZiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--935666d13f63ed5aca9daa2416340e3a90b6014e/prompthero-prompt-0b412088e35.png">
