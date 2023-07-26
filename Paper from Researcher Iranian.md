@@ -15,3 +15,6 @@ please send me your paper in discussion
 
 
 **4**- [Text Simplification of Scientific Texts for Non-Expert Readers](https://arxiv.org/pdf/2307.03569)
+
+
+**5**- [Wearable Sensor-Based Human Activity Recognition System Employing Bi-LSTM Algorithm](https://www.researchgate.net/profile/Meisam-Tabari/publication/369999135_Wearable_Sensor-Based_Human_Activity_Recognition_System_Employing_Bi-LSTM_Algorithm/links/644bb939809a535021363fa2/Wearable-Sensor-Based-Human-Activity-Recognition-System-Employing-Bi-LSTM-Algorithm.pdf)
